@@ -1,0 +1,23 @@
+0 Transform Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = -1648052389995128597
+ 0 Quaternionf m_LocalRotation
+  0 float x = -1.9073489E-06
+  0 float y = 9.860766E-32
+  0 float z = -5.16988E-26
+  0 float w = 1
+ 0 Vector3f m_LocalPosition
+  0 float x = 0.00014059067
+  0 float y = -0.4
+  0 float z = -0.02318924
+ 0 Vector3f m_LocalScale
+  0 float x = 1
+  0 float y = 1
+  0 float z = 1
+ 0 vector m_Children
+  1 Array Array (0 items)
+   0 int size = 0
+ 0 PPtr<Transform> m_Father
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = -5176946961583134206

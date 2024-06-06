@@ -1,0 +1,80 @@
+0 AssetBundle Base
+ 1 string m_Name = "assets/content/weapons/suomiG/mag.at"
+ 0 vector m_PreloadTable
+  1 Array Array (11 items)
+   0 int size = 11
+   [0]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5658687962395668343
+   [1]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1842058850121092348
+   [2]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1312217802695215576
+   [3]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 366873451894591246
+   [4]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1779822022740374174
+   [5]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4628561310306127410
+   [6]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6950774935372444280
+   [7]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7124795612269483590
+   [8]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8634016559005336272
+   [9]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = -663838671061460844
+   [10]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 8520617390566782929
+ 0 map m_Container
+  0 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 pair data
+     1 string first = "assets/定制/索米武器/suomimag.prefab"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 11
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 366873451894591246
+ 0 AssetInfo m_MainAsset
+  0 int preloadIndex = 0
+  0 int preloadSize = 0
+  0 PPtr<Object> asset
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+ 0 unsigned int m_RuntimeCompatibility = 1
+ 1 string m_AssetBundleName = "assets/content/weapons/suomi/mag"
+ 0 vector m_Dependencies
+  1 Array Array (1 items)
+   0 int size = 1
+   [0]
+    1 string data = "assets/content/weapons/suomiG/mat"
+ 1 bool m_IsStreamedSceneAssetBundle = false
+ 0 int m_ExplicitDataLayout = 0
+ 0 int m_PathFlags = 7
+ 0 map m_SceneHashes
+  0 Array Array (0 items)
+   0 int size = 0

@@ -1,0 +1,441 @@
+0 AssetBundle Base
+ 1 string m_Name = "assets/content/weapons/QBZ-03/textures/client_assets.bundle"
+ 0 vector m_PreloadTable
+  1 Array Array (32 items)
+   0 int size = 32
+   [0]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2334569314963843949
+   [1]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -713753671707485032
+   [2]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3403654748069582303
+   [3]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1473956530264047702
+   [4]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7376739906964641711
+   [5]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5673542366282336981
+   [6]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4328636195413165580
+   [7]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4661349478367675435
+   [8]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6806158823845149059
+   [9]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -384173272598568727
+   [10]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 858690095795452113
+   [11]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2559695420644490199
+   [12]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6469925464867967246
+   [13]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3110199305982076425
+   [14]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6404269702441964810
+   [15]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2575930980256893810
+   [16]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3970568939953131282
+   [17]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2944849825250460468
+   [18]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3893581319831819288
+   [19]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6407294723920798497
+   [20]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -794020924046677749
+   [21]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6927593011090538632
+   [22]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5705816433093946184
+   [23]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5209244348732258186
+   [24]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2055995661516676638
+   [25]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5232233505203304123
+   [26]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7661179464082361257
+   [27]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 569070136243639946
+   [28]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8785431874878342307
+   [29]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5090437186804461024
+   [30]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3258436696566818047
+   [31]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4400672487489560082
+ 0 map m_Container
+  0 Array Array (32 items)
+   0 int size = 32
+   [0]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/mount_akm_izhmash_akmn_dovetail_LOD0_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 7
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -4661349478367675435
+   [1]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/mount_akm_izhmash_akmn_dovetail_LOD0_gloss.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 26
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 7661179464082361257
+   [2]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/mount_akm_izhmash_akmn_dovetail_LOD0_nrm.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 12
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -6469925464867967246
+   [3]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/mount_akms_izhmash_akmsn_dovetail_LOD0_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 3
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -1473956530264047702
+   [4]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/mount_akms_izhmash_akmsn_dovetail_LOD0_gloss.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 19
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 6407294723920798497
+   [5]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/mount_akms_izhmash_akmsn_dovetail_LOD0_nrm.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 5
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -5673542366282336981
+   [6]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_izhmash_akm_762x39_LOD0_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 21
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -6927593011090538632
+   [7]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_izhmash_akm_762x39_LOD0_gloss.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 18
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -3893581319831819288
+   [8]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_izhmash_akm_762x39_LOD0_nrm.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 10
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 858690095795452113
+   [9]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_izhmash_akm_762x39_LOD1_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 6
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -4328636195413165580
+   [10]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_izhmash_akm_762x39_bolt_LOD0_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 13
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -3110199305982076425
+   [11]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_izhmash_akm_762x39_bolt_LOD0_gloss.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 4
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -7376739906964641711
+   [12]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_izhmash_akm_762x39_bolt_LOD0_nrm.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 31
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 4400672487489560082
+   [13]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_izhmash_akm_762x39_bolt_LOD1_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 2
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -3403654748069582303
+   [14]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_izhmash_akm_762x39_kolodka_LOD1_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 14
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -6404269702441964810
+   [15]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_izhmash_akms_762x39_LOD0_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 16
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 3970568939953131282
+   [16]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_izhmash_akms_762x39_LOD0_gloss.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 28
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -8785431874878342307
+   [17]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_izhmash_akms_762x39_LOD0_nrm.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 9
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -384173272598568727
+   [18]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_izhmash_akms_762x39_LOD1_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 20
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -794020924046677749
+   [19]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_molot_vepr_km_vpo_136_762x39_LOD0_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 17
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 2944849825250460468
+   [20]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_molot_vepr_km_vpo_136_762x39_LOD0_gloss.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 27
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 569070136243639946
+   [21]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_molot_vepr_km_vpo_136_762x39_LOD0_nrm.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 24
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -2055995661516676638
+   [22]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_molot_vepr_km_vpo_136_762x39_LOD1_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 2334569314963843949
+   [23]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_molot_vepr_km_vpo_136_762x39_bolt_LOD0_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 11
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -2559695420644490199
+   [24]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_molot_vepr_km_vpo_136_762x39_bolt_LOD0_gloss.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 23
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -5209244348732258186
+   [25]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_molot_vepr_km_vpo_136_762x39_bolt_LOD0_nrm.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 15
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -2575930980256893810
+   [26]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_molot_vepr_km_vpo_136_762x39_bolt_LOD1_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 30
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 3258436696566818047
+   [27]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_molot_vepr_km_vpo_136_762x39_kolodka_LOD1_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 1
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -713753671707485032
+   [28]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_molot_vepr_km_vpo_209_366TKM_LOD0_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 25
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 5232233505203304123
+   [29]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_molot_vepr_km_vpo_209_366TKM_LOD0_gloss.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 29
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -5090437186804461024
+   [30]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_molot_vepr_km_vpo_209_366TKM_LOD0_nrm.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 8
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 6806158823845149059
+   [31]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/akm/weapon_molot_vepr_km_vpo_209_366TKM_LOD1_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 22
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 5705816433093946184
+ 0 AssetInfo m_MainAsset
+  0 int preloadIndex = 0
+  0 int preloadSize = 0
+  0 PPtr<Object> asset
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+ 0 unsigned int m_RuntimeCompatibility = 1
+ 1 string m_AssetBundleName = "assets/content/weapons/akm/textures/client_assets.bundle"
+ 0 vector m_Dependencies
+  1 Array Array (0 items)
+   0 int size = 0
+ 1 bool m_IsStreamedSceneAssetBundle = false
+ 0 int m_ExplicitDataLayout = 1
+ 0 int m_PathFlags = 0
+ 0 map m_SceneHashes
+  0 Array Array (0 items)
+   0 int size = 0

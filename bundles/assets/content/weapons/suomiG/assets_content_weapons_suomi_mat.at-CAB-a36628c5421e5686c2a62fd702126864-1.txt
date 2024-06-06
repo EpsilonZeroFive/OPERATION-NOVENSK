@@ -1,0 +1,263 @@
+0 AssetBundle Base
+ 1 string m_Name = "assets/content/weapons/suomiG/mat.at"
+ 0 vector m_PreloadTable
+  1 Array Array (37 items)
+   0 int size = 37
+   [0]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3618650758303267885
+   [1]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6921703994154390047
+   [2]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 6
+   [3]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8888977368004616606
+   [4]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8766889185792362782
+   [5]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6921703994154390047
+   [6]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4997084508472304818
+   [7]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4850512016903265157
+   [8]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4295922178770214656
+   [9]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4118610219673515687
+   [10]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3378705797703361366
+   [11]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2991026740572204414
+   [12]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2490913935299912444
+   [13]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1661431499094699235
+   [14]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -663838671061460844
+   [15]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 913460145547108033
+   [16]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1375059649673283101
+   [17]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2206764618289345384
+   [18]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3618650758303267885
+   [19]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4975785614085581282
+   [20]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5112986354209735407
+   [21]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5188670968911041683
+   [22]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6509035545043749258
+   [23]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7889723100014431646
+   [24]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8520617390566782929
+   [25]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 6
+   [26]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4850512016903265157
+   [27]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2490913935299912444
+   [28]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1375059649673283101
+   [29]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6509035545043749258
+   [30]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 6
+   [31]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6921703994154390047
+   [32]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4850512016903265157
+   [33]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -663838671061460844
+   [34]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3618650758303267885
+   [35]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2490913935299912444
+   [36]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6509035545043749258
+ 0 map m_Container
+  0 Array Array (10 items)
+   0 int size = 10
+   [0]
+    0 pair data
+     1 string first = "assets/定制/索米武器/mat/b_n.png"
+     0 AssetInfo second
+      0 int preloadIndex = 36
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 6509035545043749258
+   [1]
+    0 pair data
+     1 string first = "assets/定制/索米武器/mat/body.png"
+     0 AssetInfo second
+      0 int preloadIndex = 35
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -2490913935299912444
+   [2]
+    0 pair data
+     1 string first = "assets/定制/索米武器/mat/m_n.png"
+     0 AssetInfo second
+      0 int preloadIndex = 1
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -6921703994154390047
+   [3]
+    0 pair data
+     1 string first = "assets/定制/索米武器/mat/mag.png"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 3618650758303267885
+   [4]
+    0 pair data
+     1 string first = "assets/定制/索米武器/mat/suomiweaponbody.mat"
+     0 AssetInfo second
+      0 int preloadIndex = 25
+      0 int preloadSize = 5
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 1375059649673283101
+   [5]
+    0 pair data
+     1 string first = "assets/定制/索米武器/mat/suomiweaponmag.mat"
+     0 AssetInfo second
+      0 int preloadIndex = 30
+      0 int preloadSize = 5
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -663838671061460844
+   [6]
+    0 pair data
+     1 string first = "assets/定制/索米武器/mesh/suomi.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 2
+      0 int preloadSize = 23
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -8888977368004616606
+   [7]
+    0 pair data
+     1 string first = "assets/定制/索米武器/mesh/suomi.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 2
+      0 int preloadSize = 23
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -4997084508472304818
+   [8]
+    0 pair data
+     1 string first = "assets/定制/索米武器/mesh/suomi.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 2
+      0 int preloadSize = 23
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 8520617390566782929
+   [9]
+    0 pair data
+     1 string first = "assets/定制/索米武器/mesh/suomi.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 2
+      0 int preloadSize = 23
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 913460145547108033
+ 0 AssetInfo m_MainAsset
+  0 int preloadIndex = 0
+  0 int preloadSize = 0
+  0 PPtr<Object> asset
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+ 0 unsigned int m_RuntimeCompatibility = 1
+ 1 string m_AssetBundleName = "assets/content/weapons/suomi/mat"
+ 0 vector m_Dependencies
+  1 Array Array (0 items)
+   0 int size = 0
+ 1 bool m_IsStreamedSceneAssetBundle = false
+ 0 int m_ExplicitDataLayout = 0
+ 0 int m_PathFlags = 7
+ 0 map m_SceneHashes
+  0 Array Array (0 items)
+   0 int size = 0

@@ -1,0 +1,2245 @@
+0 AssetBundle Base
+ 1 string m_Name = "assets/content/weapons/suomiG/client_assets.bundle"
+ 0 vector m_PreloadTable
+  1 Array Array (396 items)
+   0 int size = 396
+   [0]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = -9098473984068178372
+   [1]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = -8552750963032114788
+   [2]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = -2839820890974624566
+   [3]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 2314135436746240096
+   [4]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 3480237640903065615
+   [5]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = -4138730349565922582
+   [6]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = -95456619964942272
+   [7]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 263782469525175507
+   [8]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 778426639280047628
+   [9]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 5807691792266709020
+   [10]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 6546232310657355983
+   [11]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 7314069101430396385
+   [12]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 7743566661502635754
+   [13]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = 1052853038577482737
+   [14]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = 3504963903896989238
+   [15]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -9204862969147540239
+   [16]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -9177417296665012886
+   [17]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -9068339853023991549
+   [18]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -9064129827562912734
+   [19]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8804567308641182323
+   [20]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8625629796782794267
+   [21]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8320941349795136743
+   [22]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8291170379635210460
+   [23]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8212793089940036093
+   [24]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7977997663857903465
+   [25]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7923428167171080310
+   [26]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7802260228624945566
+   [27]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7800210787853980565
+   [28]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7687495541122930522
+   [29]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7577117752251676544
+   [30]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7559652365044216773
+   [31]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7503979429168111264
+   [32]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7420000286565290027
+   [33]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7395131619410659967
+   [34]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7099610634600366028
+   [35]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7089775759917784816
+   [36]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6965526072088700034
+   [37]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6810949286699730328
+   [38]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6799150467809597192
+   [39]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6734184449010473725
+   [40]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6727474582039170944
+   [41]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6725722101107255865
+   [42]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6686739853524928899
+   [43]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6382003141234770102
+   [44]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6306461320427732038
+   [45]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5731098253496164271
+   [46]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5659927062981539990
+   [47]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5619336845823715308
+   [48]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5566748130411884462
+   [49]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5560551337487437899
+   [50]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5361466890078213641
+   [51]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5318959598787047571
+   [52]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5080026214682613798
+   [53]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5053139099816184048
+   [54]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4993699715669839907
+   [55]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4850470774893443875
+   [56]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4736972833391325467
+   [57]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4662915457501331465
+   [58]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4655150514274877926
+   [59]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4400084526169914889
+   [60]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4131651529556512790
+   [61]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3809783580595452610
+   [62]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3791921737999511590
+   [63]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3739797448827897506
+   [64]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3695242617527661112
+   [65]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3659318188885911802
+   [66]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3579479849067457850
+   [67]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3546975159236842899
+   [68]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3474431546969244257
+   [69]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3114930734374106153
+   [70]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3113101269927989276
+   [71]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3056905255978481410
+   [72]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2992360646431036274
+   [73]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2981034127085016585
+   [74]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2946783500187998126
+   [75]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2739768290489236325
+   [76]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2670239491701163734
+   [77]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2618838698839543391
+   [78]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2560609840158262366
+   [79]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2551758380595080453
+   [80]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2542356969228580353
+   [81]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2336960998858504700
+   [82]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2332599658718067521
+   [83]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2268011186733825487
+   [84]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2213388832667992059
+   [85]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2146157375059421723
+   [86]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2066048254588871175
+   [87]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1891335335641803737
+   [88]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1865717739613917568
+   [89]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1828364870443021368
+   [90]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1795299925282163431
+   [91]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1495961344310147334
+   [92]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1459897520014371245
+   [93]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1381725976164273042
+   [94]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1283837177052937259
+   [95]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1269552185744998556
+   [96]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1106348076126550936
+   [97]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1054378958569780204
+   [98]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -839472824506559946
+   [99]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -803788865825913172
+   [100]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -762891518764761669
+   [101]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -645507292374713432
+   [102]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -553837043866731216
+   [103]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -535564141562990063
+   [104]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -409913438382878599
+   [105]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -279347443722416607
+   [106]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -214787509534536070
+   [107]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -76408825469037064
+   [108]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 90582411783781245
+   [109]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 133980562097047112
+   [110]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 199713989741717355
+   [111]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 360965287131461758
+   [112]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 411471467038583189
+   [113]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 467075382957522589
+   [114]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 472323970947104914
+   [115]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 520635872826450793
+   [116]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 564747308671662481
+   [117]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 713900715898690647
+   [118]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 755647737631694866
+   [119]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 916031713719766233
+   [120]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 983887867309772051
+   [121]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1016608051582827514
+   [122]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1238164982056963114
+   [123]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1335373561677525705
+   [124]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1376688354208988004
+   [125]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1453139962493667975
+   [126]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2356743241425868148
+   [127]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2442917995105449289
+   [128]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2517363428469932036
+   [129]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2711781963468798687
+   [130]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2725511764648492111
+   [131]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2731115620590184626
+   [132]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2806661757906297501
+   [133]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2831291596958412221
+   [134]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2882008008443061185
+   [135]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3082507904461353480
+   [136]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3102806107019722126
+   [137]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3197048657177149379
+   [138]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3324301486836036957
+   [139]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3398212396646161094
+   [140]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3418156395558919542
+   [141]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3420183551155311473
+   [142]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3434304536666400690
+   [143]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3602963352463914894
+   [144]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3631376917616280925
+   [145]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3646962666677623113
+   [146]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3657507886879421357
+   [147]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3896616829166362246
+   [148]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3904276193169081148
+   [149]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3940848693635086345
+   [150]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3945728899924806849
+   [151]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4058127895412240243
+   [152]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4107609929927678484
+   [153]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4149760030405898120
+   [154]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4249290376965717578
+   [155]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4353835230847427763
+   [156]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4409245162375993878
+   [157]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4411380464154465792
+   [158]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4489227301217992980
+   [159]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4511810528368877502
+   [160]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4537994554478925454
+   [161]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4662014543683839354
+   [162]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4800756390938905707
+   [163]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4907673832567766229
+   [164]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5018243491467138129
+   [165]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5138432737831780070
+   [166]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5212291544144956849
+   [167]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5212801873514661530
+   [168]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5438994839687090136
+   [169]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5445006956696157245
+   [170]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5454637763719622996
+   [171]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5496601774929647227
+   [172]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5552673738873825677
+   [173]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5586163928092177851
+   [174]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5622854549029495330
+   [175]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5645215301665245696
+   [176]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5875730980833810924
+   [177]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5892283541841631153
+   [178]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5944902564387995235
+   [179]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6009947546829004387
+   [180]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6239514526315286168
+   [181]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6344362531023394553
+   [182]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6535583451970398237
+   [183]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6598457548512829732
+   [184]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6769255580899050291
+   [185]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6805372990309531127
+   [186]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7146885735322894339
+   [187]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7198762265277913432
+   [188]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7251067225380116039
+   [189]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7463499678805988917
+   [190]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7591609867250439183
+   [191]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7611058881711740953
+   [192]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7753070351836677553
+   [193]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8068036830682488318
+   [194]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8111322421774170513
+   [195]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8360987941964311340
+   [196]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8371548730245132847
+   [197]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8728984193002688875
+   [198]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8741708075976357516
+   [199]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8785821521717543792
+   [200]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8848451948457241070
+   [201]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8938929329412278134
+   [202]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 9035136104028276161
+   [203]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 9092080726421691238
+   [204]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 9103821330892432433
+   [205]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 9166095347400628220
+   [206]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 9177427873991971997
+   [207]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -9148024651103473538
+   [208]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -9089489694204798123
+   [209]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8828884360277381413
+   [210]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8781634859638429599
+   [211]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8780111143704087980
+   [212]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8659395692977612743
+   [213]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8522471102626483321
+   [214]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8315659537543692123
+   [215]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8307405880378876573
+   [216]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8112949640415483428
+   [217]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8090111528648598516
+   [218]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8039479252914203092
+   [219]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8018381228768590305
+   [220]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7840945131314074863
+   [221]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7788151834236347204
+   [222]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7565997270240694826
+   [223]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7455297369143479337
+   [224]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7453308283608443507
+   [225]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7304432488337947697
+   [226]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7248302041111761681
+   [227]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7239444166490927394
+   [228]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7236719181726046382
+   [229]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7230389500611707363
+   [230]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6947672133474315795
+   [231]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6848071266444589991
+   [232]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6537978634370214734
+   [233]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6429915362057077502
+   [234]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6358675029250567852
+   [235]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6270899816757608026
+   [236]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6109109283312607729
+   [237]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6049717524329271789
+   [238]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5808427170984417162
+   [239]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5746028556553003701
+   [240]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5701935724745254070
+   [241]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5696066114675154755
+   [242]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5644177306674678864
+   [243]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5509531247993625675
+   [244]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5472228752852599042
+   [245]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5467099681053444268
+   [246]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5302765633642446953
+   [247]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5294671870708503343
+   [248]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4881376413463229916
+   [249]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4827290611671277495
+   [250]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4568588439178094560
+   [251]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4495633031849067786
+   [252]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4488429439509484546
+   [253]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4463423553446193181
+   [254]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4413029382938578019
+   [255]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4391140330699930604
+   [256]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4391009550902586143
+   [257]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4316292371861210634
+   [258]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4231172528713499682
+   [259]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4171939228938900945
+   [260]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4074155958319703880
+   [261]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3996999913344128649
+   [262]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3919373594486702872
+   [263]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3883066113665522627
+   [264]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3778087603125122190
+   [265]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3758907090110587774
+   [266]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3733465045541094048
+   [267]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3588404851870991741
+   [268]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3451400068874142324
+   [269]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3338367039180895210
+   [270]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3292022445442004272
+   [271]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3260618020966253543
+   [272]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3197769260848979684
+   [273]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3094795538835682424
+   [274]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3091160740303474150
+   [275]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2935004916006265102
+   [276]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2898402513167349707
+   [277]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2858554986547262796
+   [278]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2600952638632553699
+   [279]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2513121016667534488
+   [280]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2415850321709774480
+   [281]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2379924305320121819
+   [282]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2314838345322848623
+   [283]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2286522225237170476
+   [284]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2055544175293033271
+   [285]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1979471729657862838
+   [286]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1798102380710366866
+   [287]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1470372624319001871
+   [288]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1365938714251258599
+   [289]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1358445790154448684
+   [290]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1202425103705570946
+   [291]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1117353631443277434
+   [292]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1016510183615581105
+   [293]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -902749674849155584
+   [294]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -827959999987837735
+   [295]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -751975122555253173
+   [296]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -367022093453007229
+   [297]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -289677410057870907
+   [298]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -224115072260971808
+   [299]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -213248480773414451
+   [300]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -184821036356881408
+   [301]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 184041625008297412
+   [302]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 249420711480765468
+   [303]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 266744400139097300
+   [304]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 331701400685025395
+   [305]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 639361839112280653
+   [306]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 665387733033716777
+   [307]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 679848685959190746
+   [308]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 766487295874787245
+   [309]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 810942488691870135
+   [310]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 930187365054804506
+   [311]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 972675573639826661
+   [312]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1072409572207138344
+   [313]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1077914371043881628
+   [314]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1166134330459447375
+   [315]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1238221915502578757
+   [316]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1305089337261522985
+   [317]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1311042897012391028
+   [318]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1366692247321058395
+   [319]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1376696791490734008
+   [320]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1456852015014658574
+   [321]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1470194555420506622
+   [322]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1523131564136318941
+   [323]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1595234400984418895
+   [324]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1973030224408110518
+   [325]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2212985966652486702
+   [326]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2255269546929156359
+   [327]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2331599005599035885
+   [328]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2339705742895552218
+   [329]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2404216044042282289
+   [330]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2411709469500997429
+   [331]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2444564086867338719
+   [332]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2508716490297383296
+   [333]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2516814239544902979
+   [334]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2796996695395543616
+   [335]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2815827261502305526
+   [336]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2846409775007155439
+   [337]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3073259106334503486
+   [338]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3149795668427073683
+   [339]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3185866474832690624
+   [340]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3333180750724645116
+   [341]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3639164336425744940
+   [342]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3685322897167805271
+   [343]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3776025865905986951
+   [344]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4034398900849729686
+   [345]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4073627952272404384
+   [346]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4085411079701606928
+   [347]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4164000072832951708
+   [348]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4202243911713204644
+   [349]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4202440814409894987
+   [350]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4211175485907341574
+   [351]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4299586418835474954
+   [352]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4567981157362291712
+   [353]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4694176387378613398
+   [354]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4835481370653782603
+   [355]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4878164964401462852
+   [356]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4990507610732850767
+   [357]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4994522517897304443
+   [358]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5289705733760052145
+   [359]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5442547694824196009
+   [360]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5453569064020872191
+   [361]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5494901629727719226
+   [362]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5539611022608138617
+   [363]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5785723775115881878
+   [364]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5790133174264692512
+   [365]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5886829878280050500
+   [366]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5905998177454049858
+   [367]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6028192127057902687
+   [368]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6177449369606222504
+   [369]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6393039293152031457
+   [370]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6466792039545291272
+   [371]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6549338716996505906
+   [372]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6621628288880664918
+   [373]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6638208551631332507
+   [374]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6681658086060200657
+   [375]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6748822677883920831
+   [376]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6868535958638579102
+   [377]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7198466899870658523
+   [378]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7395498113232488823
+   [379]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7426515676363313413
+   [380]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7506191133690269418
+   [381]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7523236181257577070
+   [382]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7523432569077849482
+   [383]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7548169843011362732
+   [384]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7558389640288784827
+   [385]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7590797465452653995
+   [386]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7681309187034526818
+   [387]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7773313642851997379
+   [388]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7912829942921154799
+   [389]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7947869458708185713
+   [390]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7949546561419464029
+   [391]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8076951430465642554
+   [392]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8727273795355465694
+   [393]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8744689425865009622
+   [394]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8866853347065411148
+   [395]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 9077853469639772332
+ 0 map m_Container
+  0 Array Array (70 items)
+   0 int size = 70
+   [0]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 7523236181257577070
+   [1]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 8076951430465642554
+   [2]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 5785723775115881878
+   [3]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 4211175485907341574
+   [4]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 7426515676363313413
+   [5]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 4994522517897304443
+   [6]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -3197769260848979684
+   [7]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 665387733033716777
+   [8]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 5886829878280050500
+   [9]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -2858554986547262796
+   [10]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -213248480773414451
+   [11]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -4495633031849067786
+   [12]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 3639164336425744940
+   [13]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -5696066114675154755
+   [14]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -4413029382938578019
+   [15]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 766487295874787245
+   [16]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -2055544175293033271
+   [17]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 7523432569077849482
+   [18]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 6621628288880664918
+   [19]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -289677410057870907
+   [20]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 1470194555420506622
+   [21]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -5294671870708503343
+   [22]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 4085411079701606928
+   [23]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 4202440814409894987
+   [24]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -4391009550902586143
+   [25]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 4878164964401462852
+   [26]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 930187365054804506
+   [27]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -3451400068874142324
+   [28]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 6028192127057902687
+   [29]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -7455297369143479337
+   [30]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -2935004916006265102
+   [31]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 7949546561419464029
+   [32]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 7558389640288784827
+   [33]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -3094795538835682424
+   [34]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 5494901629727719226
+   [35]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 7198466899870658523
+   [36]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 4567981157362291712
+   [37]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -224115072260971808
+   [38]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -8781634859638429599
+   [39]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -6537978634370214734
+   [40]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -1979471729657862838
+   [41]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -8522471102626483321
+   [42]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 2516814239544902979
+   [43]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -7304432488337947697
+   [44]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -7236719181726046382
+   [45]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -8659395692977612743
+   [46]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -1117353631443277434
+   [47]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 810942488691870135
+   [48]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -5808427170984417162
+   [49]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 5442547694824196009
+   [50]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 7947869458708185713
+   [51]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 1366692247321058395
+   [52]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -7840945131314074863
+   [53]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 1311042897012391028
+   [54]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_animation.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 207
+      0 int preloadSize = 189
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 7506191133690269418
+   [55]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -5080026214682613798
+   [56]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 5212801873514661530
+   [57]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -762891518764761669
+   [58]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -8625629796782794267
+   [59]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -6686739853524928899
+   [60]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -7089775759917784816
+   [61]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -5659927062981539990
+   [62]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 5018243491467138129
+   [63]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -9204862969147540239
+   [64]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 4058127895412240243
+   [65]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -4850470774893443875
+   [66]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 3434304536666400690
+   [67]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -553837043866731216
+   [68]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 6009947546829004387
+   [69]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/ppsh41/weapon_zis_ppsh41_762x25_model.fbx"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 207
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -6810949286699730328
+ 0 AssetInfo m_MainAsset
+  0 int preloadIndex = 0
+  0 int preloadSize = 0
+  0 PPtr<Object> asset
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+ 0 unsigned int m_RuntimeCompatibility = 1
+ 1 string m_AssetBundleName = "assets/content/weapons/ppsh41/client_assets.bundle"
+ 0 vector m_Dependencies
+  1 Array Array (3 items)
+   0 int size = 3
+   [0]
+    1 string data = "cab-bbf13a8cb4c78fcb606eec94701adda6"
+   [1]
+    1 string data = "assets/content/weapons/suomiG/textures/client_assets.bundle"
+   [2]
+    1 string data = "cab-1dc8d26be8722a766953ce9d8a444e8c"
+ 1 bool m_IsStreamedSceneAssetBundle = false
+ 0 int m_ExplicitDataLayout = 1
+ 0 int m_PathFlags = 0
+ 0 map m_SceneHashes
+  0 Array Array (0 items)
+   0 int size = 0
