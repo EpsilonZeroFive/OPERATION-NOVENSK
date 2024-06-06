@@ -1,17 +1,17 @@
 Plot modification:
 (Small changes) Prelude 0-1
         Prelude 0-5
-(Major change) Branch 1: Life experience
-        Battle One: Rooting 1-1 Preventing Flooding
-(Small modification) The first battle: Rooting 1-2 Special Assistance Part1
-(Major change) The first battle: Rooting 1-4 Preemptive attack Part2
-(Small changes) Second Battle: Awakening 2-2 Repair
-(Small modification) The second battle: Awakening 2-3 Strangers Part1
-(Major revision) The second battle: Awakening 2-3 Strangers Part2
-(Major revision) Second Campaign: Awakening 2-4 Mysterious Cargo Part2
-(Small modification) The second battle: Awakening 2-5 Employer Part2
-(Small modification) The third battle: Zhuoyun 3-2 Secret Box Part1
-(Small modification) The third battle: Zhuoyun 3-2 Secret Box Part2
-(Small modification) The third battle: Zhuoyun 3-4 Revenge part2
-        The Fourth Battle: Companions 4-1 The Desire Part2
-(Small modification) The fourth battle: Companion 4-2 The person in my heart part2
+(Major change) Branch 1: Birthright
+        Battle 1: Rooting 1-1 Preventing Flooding
+(Small modification) Battle 1: Roots 1-2 Special Assistance Part 1
+(Major change) Battle 1: Roots 1-4 Preemptive attack Part 2
+(Small changes) Battle 2: Awakening 2-2 Repair
+(Small modification) Battle 2: Awakening 2-3 Unknown Part 1
+(Major revision) Battle 2: Awakening 2-3 Suliman Part 2
+(Major revision) Second Campaign: Awakening 2-4 Mysterious Cargo Part 2
+(Small modification) Battle 2: Awakening 2-5 Employer Part 2
+(Small modification) Battle 3: Turbid Cloud 3-2 Secret Box Part 1
+(Small modification) Battle 3: Turbid Cloud 3-2 Secret Box Part 2
+(Small modification) Battle 3: Turbid Cloud 3-4 Revenge part 2
+        Battle 4: Companions 4-1 The One You Wanted Part 2
+(Small modification) Battle 4: Companions 4-2 The One You Want part 2
