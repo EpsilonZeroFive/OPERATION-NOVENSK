@@ -4,8 +4,8 @@
 	"availableInRaid": false,
     "name": "GKsBaseinTakov",
     "surname": "GKsBaseinTakov",
-    "nickname": "GKsBaseinTakov",
-    "location": "塔科夫港口区格里芬基地",
+    "nickname": "Griffin",
+    "location": "Tarkov Port",
     "avatar": "/files/trader/avatar/G&K.jpg",
     "balance_rub": 999999999,
     "balance_dol": 999999999,
@@ -17,7 +17,7 @@
     "currency": "RUB",
     "nextResupply": 200000000,
     "repair": {
-	    "availability": true,
+	    "availability": false,
         "quality": "0.4",
         "excluded_id_list": [],
         "excluded_category": [],
@@ -25,7 +25,7 @@
         "currency_coefficient": 1
 	},
     "insurance": {
-        "availability": true,
+        "availability": false,
         "min_payment": 0,
         "min_return_hour": 0,
         "max_return_hour": 1,
@@ -46,7 +46,7 @@
             "exchange_price_coef": 0,
             "heal_price_coef": 200
         }, {
-            "minLevel": 100,
+            "minLevel": 15,
             "minSalesSum": 0,
             "minStanding": 0,
             "buy_price_coef": 44,
@@ -55,7 +55,7 @@
             "exchange_price_coef": 0,
             "heal_price_coef": 100
         }, {
-            "minLevel": 2,
+            "minLevel": 30,
             "minSalesSum": 2,
             "minStanding": 9,
             "buy_price_coef": 44,
@@ -64,11 +64,11 @@
             "exchange_price_coef": 0,
             "heal_price_coef": 100
         }, {
-            "minLevel": 2,
+            "minLevel": 50,
             "minSalesSum": 3,
             "minStanding": 10,
             "buy_price_coef": 44,
-            "repair_price_coef": -99,
+            "repair_price_coef": 0,
             "insurance_price_coef": "99",
             "exchange_price_coef": 0,
             "heal_price_coef": 80

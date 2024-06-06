@@ -24,7 +24,7 @@ class SampleTrader {
     postDBLoad(container) {
         //信息
         const logger = container.resolve("WinstonLogger");
-        logger.logWithColor("欢迎来到格里芬，指挥官！人形们已经在等着了", "green");
+        logger.logWithColor("Welcome to Griffin Commander, the dolls are already waiting for you!", "green");
         const databaseServer = container.resolve("DatabaseServer");
         const configServer = container.resolve("ConfigServer");
         const jsonUtil = container.resolve("JsonUtil");

@@ -1,0 +1,17 @@
+This mod was built by RINGMING and his team over at Oddba, the original port of this mod came from Junko Space Mommy at SPT. This is my personal branch fixing and localizing the mod, plus some tweaks to my preferences.
+
+
+Translated the Server Initialization Text
+Disabled insurance
+Corrected the OTs-12 designation from "Groza" to "Tiss"
+Shortened Trader name to fit within UI
+Reenabled loyalty levels, plus tweaks
+Translated the plot changes document
+Temporarily reduced all exp rewards from 30000 to 1000, will tweak rewards to fit mission efforts accordingly
+
+To-Do:
+Fix quests
+	- Require collected quest items to be turned in
+	- Resolve MoreCheckmarks compatability
+Fix formatting of story quests
+Localize story quests
