@@ -1,0 +1,170 @@
+0 AssetBundle Base
+ 1 string m_Name = "assets/content/items/G-mods/mounts/M-lok 4.1/mount_m_lok_magpul_4,1_inch_picatinny_rail_section.bundle"
+ 0 vector m_PreloadTable
+  1 Array Array (32 items)
+   0 int size = 32
+   [0]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8184174339162719726
+   [1]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7729095222110545248
+   [2]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7161471019022938883
+   [3]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5394245263483758747
+   [4]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -41059380315885481
+   [5]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 895230689080445063
+   [6]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2921749798331436135
+   [7]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3709218627127535565
+   [8]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3805981334899226757
+   [9]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4778898213186727727
+   [10]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5831720348085125406
+   [11]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5858570270521174818
+   [12]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5946339152966544865
+   [13]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5978778575358709043
+   [14]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6174045925502942969
+   [15]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6800676148704532254
+   [16]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6863597281106779331
+   [17]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7335204860078366756
+   [18]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7812817773717590575
+   [19]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8055575607732827814
+   [20]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = -9098473984068178372
+   [21]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = -8552750963032114788
+   [22]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = -2839820890974624566
+   [23]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 2314135436746240096
+   [24]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 3480237640903065615
+   [25]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = -6320922806259159789
+   [26]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = -2440192740847623809
+   [27]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = 7581000144746193810
+   [28]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = 8789768830099988791
+   [29]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = -4309039717055082381
+   [30]
+    0 PPtr<Object> data
+     0 int m_FileID = 4
+     0 SInt64 m_PathID = 1052853038577482737
+   [31]
+    0 PPtr<Object> data
+     0 int m_FileID = 4
+     0 SInt64 m_PathID = 3504963903896989238
+ 0 map m_Container
+  0 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/mounts/mount_m_lok_magpul_4,1_inch_picatinny_rail_section.prefab"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 32
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 7812817773717590575
+ 0 AssetInfo m_MainAsset
+  0 int preloadIndex = 0
+  0 int preloadSize = 0
+  0 PPtr<Object> asset
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+ 0 unsigned int m_RuntimeCompatibility = 1
+ 1 string m_AssetBundleName = "assets/content/items/mods/mounts/mount_m_lok_magpul_4,1_inch_picatinny_rail_section.bundle"
+ 0 vector m_Dependencies
+  1 Array Array (4 items)
+   0 int size = 4
+   [0]
+    1 string data = "cab-bbf13a8cb4c78fcb606eec94701adda6"
+   [1]
+    1 string data = "assets/content/items/G-mods/mounts/M-lok 4.1/mount_m_lok_magpul_picatinny_rail_sections_textures"
+   [2]
+    1 string data = "cab-20aee415cd3faffe10895c57dee1751d"
+   [3]
+    1 string data = "cab-92f737866f97db787c6e7d22c895a41e"
+ 1 bool m_IsStreamedSceneAssetBundle = false
+ 0 int m_ExplicitDataLayout = 1
+ 0 int m_PathFlags = 0
+ 0 map m_SceneHashes
+  0 Array Array (0 items)
+   0 int size = 0

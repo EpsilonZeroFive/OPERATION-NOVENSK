@@ -1,0 +1,242 @@
+0 AssetBundle Base
+ 1 string m_Name = "assets/content/items/G-mods/scopes/EXPS3 Blk/scope_all_eotech_exps3.bundle"
+ 0 vector m_PreloadTable
+  1 Array Array (48 items)
+   0 int size = 48
+   [0]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1594798967639422197
+   [1]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8184174339162719726
+   [2]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8202776213919217747
+   [3]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = -6540188872397641850
+   [4]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8728227526398154086
+   [5]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8687969616424952613
+   [6]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8375471944844079627
+   [7]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7702696398590999903
+   [8]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6692707165571780957
+   [9]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6005547843350994611
+   [10]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3810150904062647459
+   [11]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1478707854750140049
+   [12]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1475496497239455450
+   [13]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -146484775555939528
+   [14]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 404290866480740338
+   [15]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2086839258155701374
+   [16]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2196496120236654576
+   [17]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4867310753118706536
+   [18]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5001972732732114630
+   [19]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5485677805895788676
+   [20]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5504518588066047754
+   [21]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6674499281810014185
+   [22]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7474083622688356826
+   [23]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7727524867486345655
+   [24]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 9021917316040791995
+   [25]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = -9098473984068178372
+   [26]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = -8552750963032114788
+   [27]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = -2839820890974624566
+   [28]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = 2314135436746240096
+   [29]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = 3480237640903065615
+   [30]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = 5767532647869597998
+   [31]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = 5997129945768020551
+   [32]
+    0 PPtr<Object> data
+     0 int m_FileID = 4
+     0 SInt64 m_PathID = -6612576298684886571
+   [33]
+    0 PPtr<Object> data
+     0 int m_FileID = 4
+     0 SInt64 m_PathID = -2268947818560122102
+   [34]
+    0 PPtr<Object> data
+     0 int m_FileID = 5
+     0 SInt64 m_PathID = -4309039717055082381
+   [35]
+    0 PPtr<Object> data
+     0 int m_FileID = 6
+     0 SInt64 m_PathID = -7805151238265355563
+   [36]
+    0 PPtr<Object> data
+     0 int m_FileID = 6
+     0 SInt64 m_PathID = 106959476792518877
+   [37]
+    0 PPtr<Object> data
+     0 int m_FileID = 7
+     0 SInt64 m_PathID = 8301517285608571823
+   [38]
+    0 PPtr<Object> data
+     0 int m_FileID = 8
+     0 SInt64 m_PathID = -7691213768275522808
+   [39]
+    0 PPtr<Object> data
+     0 int m_FileID = 8
+     0 SInt64 m_PathID = 1052853038577482737
+   [40]
+    0 PPtr<Object> data
+     0 int m_FileID = 8
+     0 SInt64 m_PathID = 3504963903896989238
+   [41]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = -7334329439256915357
+   [42]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = -5269312170002659074
+   [43]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = -4786127419117695963
+   [44]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 1101913013538175009
+   [45]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 1585306126987173047
+   [46]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 4042997677788529648
+   [47]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 4081231329873178083
+ 0 map m_Container
+  0 Array Array (1 items)
+   0 int size = 1
+   [0]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_exps3.prefab"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 48
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 5504518588066047754
+ 0 AssetInfo m_MainAsset
+  0 int preloadIndex = 0
+  0 int preloadSize = 0
+  0 PPtr<Object> asset
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+ 0 unsigned int m_RuntimeCompatibility = 1
+ 1 string m_AssetBundleName = "assets/content/items/mods/scopes/scope_all_eotech_exps3.bundle"
+ 0 vector m_Dependencies
+  1 Array Array (8 items)
+   0 int size = 8
+   [0]
+    1 string data = "cab-bbf13a8cb4c78fcb606eec94701adda6"
+   [1]
+    1 string data = "assets/content/items/G-mods/scopes/EXPS3 Blk/scope_all_eotech_exps3_gloss_nrm"
+   [2]
+    1 string data = "assets/content/items/G-mods/scopes/EXPS3 Blk/scope_all_eotech_exps3_mesh"
+   [3]
+    1 string data = "assets/content/items/G-mods/scopes/EXPS3 Blk/scope_all_eotech_exps3_tan_textures"
+   [4]
+    1 string data = "cab-0dec4220504d5321cc8417f267572ecc"
+   [5]
+    1 string data = "cab-92f737866f97db787c6e7d22c895a41e"
+   [6]
+    1 string data = "cab-a69640f85b753d21a851543d0caf350d"
+   [7]
+    1 string data = "cab-bcc955992624dbcf32e86451b85dd741"
+ 1 bool m_IsStreamedSceneAssetBundle = false
+ 0 int m_ExplicitDataLayout = 1
+ 0 int m_PathFlags = 0
+ 0 map m_SceneHashes
+  0 Array Array (0 items)
+   0 int size = 0

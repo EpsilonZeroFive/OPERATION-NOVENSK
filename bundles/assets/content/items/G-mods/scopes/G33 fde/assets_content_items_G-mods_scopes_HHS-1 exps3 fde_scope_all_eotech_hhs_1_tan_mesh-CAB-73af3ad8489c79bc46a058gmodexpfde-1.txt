@@ -1,0 +1,559 @@
+0 AssetBundle Base
+ 1 string m_Name = "assets/content/items/G-mods/scopes/G33 fde/scope_all_eotech_hhs_1_tan_mesh"
+ 0 vector m_PreloadTable
+  1 Array Array (89 items)
+   0 int size = 89
+   [0]
+    0 PPtr<Object> data
+     0 int m_FileID = 5
+     0 SInt64 m_PathID = -903376474899162136
+   [1]
+    0 PPtr<Object> data
+     0 int m_FileID = 5
+     0 SInt64 m_PathID = 932915189937787248
+   [2]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = -9098473984068178372
+   [3]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = -8552750963032114788
+   [4]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = -8368840478660104786
+   [5]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = -2839820890974624566
+   [6]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = -872022254163293265
+   [7]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 2314135436746240096
+   [8]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 3480237640903065615
+   [9]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 5767532647869597998
+   [10]
+    0 PPtr<Object> data
+     0 int m_FileID = 1
+     0 SInt64 m_PathID = 5997129945768020551
+   [11]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = -2726278441605100441
+   [12]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = 2083959980348329192
+   [13]
+    0 PPtr<Object> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = 5760748483528431371
+   [14]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -9172824423432684702
+   [15]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -9156864720149158811
+   [16]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8755366220256163060
+   [17]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8748651049830980086
+   [18]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -8214636243793098117
+   [19]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7522522858877568626
+   [20]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7361593590153857721
+   [21]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -7334329439256915357
+   [22]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6691807063133362299
+   [23]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6418916388641979827
+   [24]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6388749357066844596
+   [25]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6364832791079721583
+   [26]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5871502413859887650
+   [27]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5451208839532192475
+   [28]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -5408041548619134144
+   [29]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -4675816587461760161
+   [30]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3172626821388699353
+   [31]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2645380962702078447
+   [32]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2495709483128304570
+   [33]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2406769753862670221
+   [34]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1702322632360093800
+   [35]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1682258969499469871
+   [36]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1532509714201642112
+   [37]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -1225584515846458531
+   [38]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -978223695991946630
+   [39]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -767817598831524604
+   [40]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -558523644501016061
+   [41]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -188636172593343296
+   [42]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -14498965566917997
+   [43]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 44252357587211670
+   [44]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 465519674716348522
+   [45]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 500252439207936977
+   [46]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 930900358896051503
+   [47]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1585306126987173047
+   [48]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1689981982632176414
+   [49]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1854509162111073204
+   [50]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2019315189003556330
+   [51]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2282058057590418682
+   [52]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 2302934427099791055
+   [53]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3028593736943080841
+   [54]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3166935736647769561
+   [55]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3175759193365386724
+   [56]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3367928773174299731
+   [57]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3516594503596552654
+   [58]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3718882055603605908
+   [59]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3879535534270519235
+   [60]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4042997677788529648
+   [61]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4062438352184449858
+   [62]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4262352804665362693
+   [63]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 4630592003271564668
+   [64]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5268055985894415746
+   [65]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5464374567499476135
+   [66]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5796145304149247142
+   [67]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 5848078903587686067
+   [68]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6311794251233020010
+   [69]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6628996014710144001
+   [70]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6739370865643823016
+   [71]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6798513586339350831
+   [72]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7128028784245164725
+   [73]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7250308741763641772
+   [74]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7339608532825414149
+   [75]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 7759069789884029497
+   [76]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8170413482937932259
+   [77]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8502643847258079680
+   [78]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8515888546878331097
+   [79]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8770076440488982570
+   [80]
+    0 PPtr<Object> data
+     0 int m_FileID = 6
+     0 SInt64 m_PathID = -6612576298684886571
+   [81]
+    0 PPtr<Object> data
+     0 int m_FileID = 6
+     0 SInt64 m_PathID = -2268947818560122102
+   [82]
+    0 PPtr<Object> data
+     0 int m_FileID = 4
+     0 SInt64 m_PathID = -7805151238265355563
+   [83]
+    0 PPtr<Object> data
+     0 int m_FileID = 4
+     0 SInt64 m_PathID = 106959476792518877
+   [84]
+    0 PPtr<Object> data
+     0 int m_FileID = 7
+     0 SInt64 m_PathID = 8301517285608571823
+   [85]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = -7691213768275522808
+   [86]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 1052853038577482737
+   [87]
+    0 PPtr<Object> data
+     0 int m_FileID = 2
+     0 SInt64 m_PathID = 3504963903896989238
+   [88]
+    0 PPtr<Object> data
+     0 int m_FileID = 8
+     0 SInt64 m_PathID = 5040192186352607596
+ 0 map m_Container
+  0 Array Array (18 items)
+   0 int size = 18
+   [0]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 5848078903587686067
+   [1]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -188636172593343296
+   [2]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 3367928773174299731
+   [3]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -2645380962702078447
+   [4]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 4062438352184449858
+   [5]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -8755366220256163060
+   [6]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -1225584515846458531
+   [7]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 7759069789884029497
+   [8]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -14498965566917997
+   [9]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -6364832791079721583
+   [10]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 2282058057590418682
+   [11]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 3516594503596552654
+   [12]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -9172824423432684702
+   [13]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 6311794251233020010
+   [14]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -3172626821388699353
+   [15]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -1682258969499469871
+   [16]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -8748651049830980086
+   [17]
+    0 pair data
+     1 string first = "Assets/Content/Items/mods/scopes/scope_all_eotech_hhs_1_tan.FBX"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 89
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 8502643847258079680
+ 0 AssetInfo m_MainAsset
+  0 int preloadIndex = 0
+  0 int preloadSize = 0
+  0 PPtr<Object> asset
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+ 0 unsigned int m_RuntimeCompatibility = 1
+ 1 string m_AssetBundleName = "assets/content/items/mods/scopes/scope_all_eotech_hhs_1_tan_mesh"
+ 0 vector m_Dependencies
+  1 Array Array (8 items)
+   0 int size = 8
+   [0]
+    1 string data = "cab-bbf13a8cb4c78fcb606eec94701adda6"
+   [1]
+    1 string data = "assets/content/items/G-mods/scopes/G33 fde/scope_all_eotech_exps3_tan_textures"
+   [2]
+    1 string data = "cab-1dc8d26be8722a766953ce9d8a444e8c"
+   [3]
+    1 string data = "cab-b7933265a6335565ffcc72e78b16c621"
+   [4]
+    1 string data = "cab-ff6f6e01215466332342d168c344898b"
+   [5]
+    1 string data = "cab-55d9cd4b55cb43d82c4b52dc2b8b912e"
+   [6]
+    1 string data = "cab-0472e0e30a620aaa3d4aa0e2037f8030"
+   [7]
+    1 string data = "cab-a69640f85b753d21a851543d0caf350d"
+ 1 bool m_IsStreamedSceneAssetBundle = false
+ 0 int m_ExplicitDataLayout = 1
+ 0 int m_PathFlags = 0
+ 0 map m_SceneHashes
+  0 Array Array (0 items)
+   0 int size = 0
