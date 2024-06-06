@@ -1,0 +1,142 @@
+0 AssetBundle Base
+ 1 string m_Name = "assets/content/weapons/Thompson/textures/client_assets.bundle"
+ 0 vector m_PreloadTable
+  1 Array Array (9 items)
+   0 int size = 9
+   [0]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -492404203448023677
+   [1]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 661987508872502792
+   [2]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 8057342216764776787
+   [3]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -3419753791243961288
+   [4]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -6854622386270142818
+   [5]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = -2213463330202440846
+   [6]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 271837570122751948
+   [7]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6073391323786559558
+   [8]
+    0 PPtr<Object> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 6414263720099174958
+ 0 map m_Container
+  0 Array Array (9 items)
+   0 int size = 9
+   [0]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/pp-91/weapon_zmz_pp-91-01_9x18pm_LOD0_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 3
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -3419753791243961288
+   [1]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/pp-91/weapon_zmz_pp-91-01_9x18pm_LOD0_gloss.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 0
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -492404203448023677
+   [2]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/pp-91/weapon_zmz_pp-91-01_9x18pm_LOD0_nrm.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 4
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -6854622386270142818
+   [3]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/pp-91/weapon_zmz_pp-91-01_9x18pm_LOD1_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 8
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 6414263720099174958
+   [4]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/pp-91/weapon_zmz_pp-91_9x18pm_LOD0_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 1
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 661987508872502792
+   [5]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/pp-91/weapon_zmz_pp-91_9x18pm_LOD0_gloss.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 7
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 6073391323786559558
+   [6]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/pp-91/weapon_zmz_pp-91_9x18pm_LOD0_nrm.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 6
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 271837570122751948
+   [7]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/pp-91/weapon_zmz_pp-91_9x18pm_LOD1_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 5
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = -2213463330202440846
+   [8]
+    0 pair data
+     1 string first = "Assets/Content/Weapons/pp-91/weapon_zmz_pp-9_9x18pmm_LOD0_diff.tga"
+     0 AssetInfo second
+      0 int preloadIndex = 2
+      0 int preloadSize = 1
+      0 PPtr<Object> asset
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 8057342216764776787
+ 0 AssetInfo m_MainAsset
+  0 int preloadIndex = 0
+  0 int preloadSize = 0
+  0 PPtr<Object> asset
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+ 0 unsigned int m_RuntimeCompatibility = 1
+ 1 string m_AssetBundleName = "assets/content/weapons/pp-91/textures/client_assets.bundle"
+ 0 vector m_Dependencies
+  1 Array Array (0 items)
+   0 int size = 0
+ 1 bool m_IsStreamedSceneAssetBundle = false
+ 0 int m_ExplicitDataLayout = 1
+ 0 int m_PathFlags = 0
+ 0 map m_SceneHashes
+  0 Array Array (0 items)
+   0 int size = 0
