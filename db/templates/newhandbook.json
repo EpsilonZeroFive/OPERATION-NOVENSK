@@ -1,0 +1,51 @@
+{
+	"GriffinSupplier": {
+		"Id": "GriffinSupplier",
+		"ParentId": null,
+		"Icon": "/files/quest/icon/GriffinSupplier.png",
+		"Color": "",
+		"Order": "99"
+	},
+	"Digital mind update": {
+		"Id": "Digital mind update",
+		"ParentId": "GriffinSupplier",
+		"Icon": "/files/quest/icon/Digitalmindupdate.png",
+		"Color": "",
+		"Order": "100"
+	},
+	"Text": {
+		"Id": "Text",
+		"ParentId": "GriffinSupplier",
+		"Icon": "/files/quest/icon/text.png",
+		"Color": "",
+		"Order": "99"
+	},
+	"Other": {
+		"Id": "Other",
+		"ParentId": "GriffinSupplier",
+		"Icon": "/files/quest/icon/other.png",
+		"Color": "",
+		"Order": "90"
+	},
+	"fix": {
+		"Id": "fix",
+		"ParentId": "GriffinSupplier",
+		"Icon": "/files/quest/icon/fix.png",
+		"Color": "",
+		"Order": "89"
+	},
+	"IOP": {
+		"Id": "IOP",
+		"ParentId": null,
+		"Icon": "/files/quest/icon/IOP.png",
+		"Color": "",
+		"Order": "100"
+	},
+	"Experimental ammo": {
+		"Id": "Experimental ammo",
+		"ParentId": "IOP",
+		"Icon": "/files/quest/icon/ammo.png",
+		"Color": "",
+		"Order": "100"
+	}
+}

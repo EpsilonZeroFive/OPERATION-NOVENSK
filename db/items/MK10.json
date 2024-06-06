@@ -1,0 +1,160 @@
+{
+    "_id": "MK10",
+    "_name": "handguard_ar15_alexander_arms_mk10_rifle_lenght",
+    "_parent": "55818a104bdc2db9688b4569",
+    "_type": "Item",
+    "_props": {
+      "Name": "handguard_ar15_alexander_arms_mk10_rifle_lenght",
+      "ShortName": "handguard_ar15_alexander_arms_mk10_rifle_lenght",
+      "Description": "handguard_ar15_alexander_arms_mk10_rifle_lenght",
+      "Weight": 0.29,
+      "BackgroundColor": "blue",
+      "Width": 2,
+      "Height": 1,
+      "StackMaxSize": 1,
+      "ItemSound": "mod",
+      "Prefab": {
+        "path": "assets/content/items/G-mods/handguards/MK10/handguard_ar15_kac_urx_3_8_inch.bundle",
+        "rcid": ""
+      },
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "StackObjectsCount": 1,
+      "NotShownInSlot": false,
+      "ExaminedByDefault": true,
+      "ExamineTime": 1,
+      "IsUndiscardable": false,
+      "IsUnsaleable": false,
+      "IsUnbuyable": false,
+      "IsUngivable": false,
+      "IsLockedafterEquip": false,
+      "QuestItem": false,
+      "LootExperience": 10,
+      "ExamineExperience": 3,
+      "HideEntrails": false,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ExtraSizeLeft": 2,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "MergesWithChildren": true,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [
+        "5ae30e795acfc408fb139a0b",
+        "56ea8d2fd2720b7c698b4570"
+      ],
+      "Unlootable": false,
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UnlootableFromSide": [],
+      "AnimationVariantsNumber": 0,
+      "DiscardingBlock": false,
+      "RagFairCommissionModifier": 1,
+      "IsAlwaysAvailableForInsurance": false,
+      "DiscardLimit": -1,
+      "DropSoundType": "None",
+      "InsuranceDisabled": false,
+      "QuestStashMaxCount": 0,
+      "IsSpecialSlotOnly": false,
+      "IsUnremovable": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_mount_000",
+          "_id": "5d123102d7ad1a004e475fe7",
+          "_parent": "MK10",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5b30bc165acfc40016387293"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "5d123102d7ad1a004e475fe8",
+          "_parent": "MK10",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "5b30bc165acfc40016387293"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "5d123102d7ad1a004e475feb",
+          "_parent": "MK10",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "MK10 Up mount"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_tactical_000",
+          "_id": "5d123102d7ad1a004e475fec",
+          "_parent": "MK10",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "MK10 Dow mount"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "Durability": 100,
+      "Accuracy": 0,
+      "Recoil": -2,
+      "Loudness": 0,
+      "EffectiveDistance": 0,
+      "Ergonomics": 7,
+      "Velocity": 0,
+      "RaidModdable": false,
+      "ToolModdable": true,
+      "BlocksFolding": false,
+      "BlocksCollapsible": false,
+      "IsAnimated": false,
+      "HasShoulderContact": false,
+      "SightingRange": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "HeatFactor": 0.998,
+      "CoolFactor": 1.042
+    },
+    "_proto": "560d61e84bdc2da74d8b4571"
+}

@@ -1,0 +1,110 @@
+{
+    "_id": "barska",
+    "_name": "scope_base_trijicon_acog_ta01nsn_4x32",
+    "_parent": "55818add4bdc2d5b648b456f",
+    "_type": "Item",
+    "_props": {
+      "Name": "scope_base_trijicon_acog_ta11_3,5x35",
+      "ShortName": "scope_base_trijicon_acog_ta11_3,5x35",
+      "Description": "scope_base_trijicon_acog_ta11_3,5x35",
+      "Weight": 0.396,
+      "BackgroundColor": "blue",
+      "Width": 2,
+      "Height": 1,
+      "StackMaxSize": 1,
+      "ItemSound": "mod",
+      "Prefab": {
+        "path": "assets/content/items/G-mods/scopes/barska/scope_base_trijicon_acog_ta01nsn_4x32.bundle",
+        "rcid": ""
+      },
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "StackObjectsCount": 1,
+      "NotShownInSlot": false,
+      "ExaminedByDefault": true,
+      "ExamineTime": 1,
+      "IsUndiscardable": false,
+      "IsUnsaleable": false,
+      "IsUnbuyable": false,
+      "IsUngivable": false,
+      "IsLockedafterEquip": false,
+      "QuestItem": false,
+      "LootExperience": 15,
+      "ExamineExperience": 4,
+      "HideEntrails": false,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "MergesWithChildren": true,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [
+	  "5c1cdd302e221602b3137250",
+	  "59db7eed86f77461f8380365"
+	  ],
+      "Unlootable": false,
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UnlootableFromSide": [],
+      "AnimationVariantsNumber": 0,
+      "DiscardingBlock": false,
+      "RagFairCommissionModifier": 1,
+      "IsAlwaysAvailableForInsurance": false,
+      "DiscardLimit": -1,
+      "DropSoundType": "None",
+      "InsuranceDisabled": false,
+      "QuestStashMaxCount": 0,
+      "IsSpecialSlotOnly": false,
+      "IsUnremovable": false,
+      "Grids": [],
+      "Slots": [
+      ],
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "Durability": 100,
+      "Accuracy": 0,
+      "Recoil": 0,
+      "Loudness": 0,
+      "EffectiveDistance": 0,
+      "Ergonomics": -2,
+      "Velocity": 0,
+      "RaidModdable": true,
+      "ToolModdable": true,
+      "BlocksFolding": false,
+      "BlocksCollapsible": false,
+      "IsAnimated": false,
+      "HasShoulderContact": false,
+      "SightingRange": 800,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "CustomAimPlane": "",
+      "sightModType": "optic",
+      "ScopesCount": 1,
+      "AimSensitivity": [
+        [
+          0.1875
+        ]
+      ],
+      "ModesCount": [
+        1
+      ],
+      "Zooms": [
+        [
+          4
+        ]
+      ],
+      "CalibrationDistances": [
+        [
+          50,
+          100,
+          150,
+          200
+        ]
+      ]
+    },
+    "_proto": "Beowulf"
+}

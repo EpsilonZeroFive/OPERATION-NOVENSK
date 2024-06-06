@@ -1,0 +1,183 @@
+{
+    "_id": "PRI Gen.3",
+    "_name": "handguard_ar15_stngr_vypr_m_lok_10_inch",
+    "_parent": "55818a104bdc2db9688b4569",
+    "_type": "Item",
+    "_props": {
+      "Name": "handguard_ar15_stngr_vypr_m_lok_10_inch",
+      "ShortName": "handguard_ar15_stngr_vypr_m_lok_10_inch",
+      "Description": "handguard_ar15_stngr_vypr_m_lok_10_inch",
+      "Weight": 0.350,
+      "BackgroundColor": "blue",
+      "Width": 2,
+      "Height": 1,
+      "StackMaxSize": 1,
+      "ItemSound": "mod",
+      "Prefab": {
+        "path": "assets/content/items/G-mods/handguards/PRI Gen.3/handguard_ar15_stngr_vypr_m_lok_10_inch.bundle",
+        "rcid": ""
+      },
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "StackObjectsCount": 1,
+      "NotShownInSlot": false,
+      "ExaminedByDefault": true,
+      "ExamineTime": 1,
+      "IsUndiscardable": false,
+      "IsUnsaleable": false,
+      "IsUnbuyable": false,
+      "IsUngivable": false,
+      "IsLockedafterEquip": false,
+      "QuestItem": false,
+      "LootExperience": 10,
+      "ExamineExperience": 3,
+      "HideEntrails": false,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ExtraSizeLeft": 1,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "MergesWithChildren": true,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [
+        "5a34fbadc4a28200741e230a",
+        "5ae30e795acfc408fb139a0b",
+        "56ea8d2fd2720b7c698b4570"
+      ],
+      "Unlootable": false,
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UnlootableFromSide": [],
+      "AnimationVariantsNumber": 0,
+      "DiscardingBlock": false,
+      "RagFairCommissionModifier": 1,
+      "IsAlwaysAvailableForInsurance": false,
+      "DiscardLimit": -1,
+      "DropSoundType": "None",
+      "InsuranceDisabled": false,
+      "QuestStashMaxCount": 0,
+      "IsSpecialSlotOnly": false,
+      "IsUnremovable": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_mount_000",
+          "_id": "5c6d5d8b2e221644fc630b3b",
+          "_parent": "PRI Gen.3",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "PRI mount side",
+                  "PRI mount long side"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_001",
+          "_id": "5c6d5d8b2e221644fc630b3c",
+          "_parent": "PRI Gen.3",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "PRI mount side",
+                  "PRI mount long side"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_mount_002",
+          "_id": "5c6d5d8b2e221644fc630b3d",
+          "_parent": "PRI Gen.3",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "PRI mount side",
+                  "PRI mount long bottom"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_foregrip",
+          "_id": "5c6d5d8b2e221644fc630b40",
+          "_parent": "PRI Gen.3",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "PRI mount bottom"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_sight_front",
+          "_id": "5c6d5d8b2e221644fc630b41",
+          "_parent": "PRI Gen.3",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "PRI mount side",
+                  "PRI mount long"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "Durability": 100,
+      "Accuracy": 0,
+      "Recoil": -2,
+      "Loudness": 0,
+      "EffectiveDistance": 0,
+      "Ergonomics": 9,
+      "Velocity": 0,
+      "RaidModdable": false,
+      "ToolModdable": true,
+      "BlocksFolding": false,
+      "BlocksCollapsible": false,
+      "IsAnimated": false,
+      "HasShoulderContact": false,
+      "SightingRange": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "HeatFactor": 0.99,
+      "CoolFactor": 1.05
+    },
+  "_proto": "5649be884bdc2d79388b4577"
+}

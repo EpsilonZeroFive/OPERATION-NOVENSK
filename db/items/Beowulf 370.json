@@ -1,0 +1,131 @@
+{
+    "_id": "Beowulf 370",
+    "_name": "barrel_ar15_370mm",
+    "_parent": "555ef6e44bdc2de9068b457e",
+    "_type": "Item",
+    "_props": {
+      "Name": "Ствол 370мм для AR-15 и совместимых 5.56х45",
+      "ShortName": "370мм AR-15 5.56х45",
+      "Description": "Ствол для оружия на базе AR-15 под патрон 5.56х45 NATO длинной 370мм. Соответствует стандартному стволу для M4A1.\n",
+      "Weight": 0.509,
+      "BackgroundColor": "blue",
+      "Width": 3,
+      "Height": 1,
+      "StackMaxSize": 1,
+      "ItemSound": "mod",
+      "Prefab": {
+        "path": "assets/content/items/G-mods/barrels/Beowulf 370/barrel_ar15_370mm.bundle",
+        "rcid": ""
+      },
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "StackObjectsCount": 1,
+      "NotShownInSlot": false,
+      "ExaminedByDefault": true,
+      "ExamineTime": 1,
+      "IsUndiscardable": false,
+      "IsUnsaleable": false,
+      "IsUnbuyable": false,
+      "IsUngivable": false,
+      "IsLockedafterEquip": false,
+      "QuestItem": false,
+      "LootExperience": 15,
+      "ExamineExperience": 6,
+      "HideEntrails": false,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ExtraSizeLeft": 3,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "MergesWithChildren": true,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [
+	  "5c0e2f5cd174af02a012cfc9",
+	  "5c78f26f2e221601da3581d1"
+	  ],
+      "Unlootable": false,
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UnlootableFromSide": [],
+      "AnimationVariantsNumber": 0,
+      "DiscardingBlock": false,
+      "RagFairCommissionModifier": 1,
+      "IsAlwaysAvailableForInsurance": false,
+      "DiscardLimit": -1,
+      "DropSoundType": "None",
+      "InsuranceDisabled": false,
+      "QuestStashMaxCount": 0,
+      "IsSpecialSlotOnly": false,
+      "IsUnremovable": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_muzzle",
+          "_id": "55dc9adc4bdc2d86028b4576",
+          "_parent": "Beowulf 370",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "Beowulf brake"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_gas_block",
+          "_id": "56ea8e89d2720b75698b4568",
+          "_parent": "Beowulf 370",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+				  "Beowulf gas",
+				  "Beowulf gas with mount"
+                ]
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "Durability": 100,
+      "Accuracy": 0,
+      "Recoil": -4,
+      "Loudness": 0,
+      "EffectiveDistance": 0,
+      "Ergonomics": -16,
+      "Velocity": -6.57,
+      "RaidModdable": false,
+      "ToolModdable": true,
+      "BlocksFolding": false,
+      "BlocksCollapsible": false,
+      "IsAnimated": false,
+      "HasShoulderContact": false,
+      "SightingRange": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "CenterOfImpact": 0.067,
+      "ShotgunDispersion": 1,
+      "IsSilencer": false,
+      "DurabilityBurnModificator": 0.96,
+      "HeatFactor": 1.02,
+      "CoolFactor": 1.03,
+      "DeviationCurve": 1.35,
+      "DeviationMax": 23
+    },
+    "_proto": "5447a9cd4bdc2dbd208b4567"
+}

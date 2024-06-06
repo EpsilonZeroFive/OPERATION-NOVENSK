@@ -1,0 +1,113 @@
+{
+    "_id": "M110 gas block FDE",
+    "_name": "mount_pp-91_rotor_43_kedr_ris",
+    "_parent": "55818b224bdc2dde698b456f",
+    "_type": "Item",
+    "_props": {
+      "Name": "mount_pp-91_rotor_43_kedr_ris",
+      "ShortName": "mount_pp-91_rotor_43_kedr_ris",
+      "Description": "mount_pp-91_rotor_43_kedr_ris",
+      "Weight": 0.106,
+      "BackgroundColor": "blue",
+      "Width": 1,
+      "Height": 1,
+      "StackMaxSize": 1,
+      "ItemSound": "mod",
+      "Prefab": {
+        "path": "assets/content/items/G-mods/gas block/M110 FDE/mount_pp-91_rotor_43_kedr_ris.bundle",
+        "rcid": ""
+      },
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "StackObjectsCount": 1,
+      "NotShownInSlot": false,
+      "ExaminedByDefault": true,
+      "ExamineTime": 1,
+      "IsUndiscardable": false,
+      "IsUnsaleable": false,
+      "IsUnbuyable": false,
+      "IsUngivable": false,
+      "IsLockedafterEquip": false,
+      "QuestItem": false,
+      "LootExperience": 5,
+      "ExamineExperience": 3,
+      "HideEntrails": false,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "MergesWithChildren": true,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [
+	  "5a34fae7c4a2826c6e06d760",
+	  "5a34f7f1c4a2826c6e06d75d",
+	  "60658776f2cb2e02a42ace2b",
+	  "6065878ac9cf8012264142fd",
+	  "Super SASS barrel 20in",
+	  "Super SASS barrel 16in",
+	  "6065881d1246154cad35d637",
+	  "5df916dfbb49d91fb446d6b9",
+	  "5d00ede1d7ad1a0940739a76"
+	  ],
+      "Unlootable": false,
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UnlootableFromSide": [],
+      "AnimationVariantsNumber": 0,
+      "DiscardingBlock": false,
+      "RagFairCommissionModifier": 1,
+      "IsAlwaysAvailableForInsurance": false,
+      "DiscardLimit": -1,
+      "DropSoundType": "None",
+      "InsuranceDisabled": false,
+      "QuestStashMaxCount": 0,
+      "IsSpecialSlotOnly": false,
+      "IsUnremovable": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_tactical",
+          "_id": "57ee5b702459771c30246a12",
+          "_parent": "M110 gas block FDE",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "M110 adapter"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "Durability": 100,
+      "Accuracy": 0,
+      "Recoil": -4,
+      "Loudness": 0,
+      "EffectiveDistance": 0,
+      "Ergonomics": -3,
+      "Velocity": 0,
+      "RaidModdable": true,
+      "ToolModdable": true,
+      "BlocksFolding": false,
+      "BlocksCollapsible": false,
+      "IsAnimated": false,
+      "HasShoulderContact": false,
+      "SightingRange": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "HeatFactor": 0.95,
+      "CoolFactor": 1.05
+    },
+    "_proto": "5644bd2b4bdc2d3b4c8b4572"
+}

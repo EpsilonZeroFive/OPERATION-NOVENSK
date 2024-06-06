@@ -1,0 +1,107 @@
+{
+    "_id": "Desert Eagle receiver 50",
+    "_name": "reciever_usp_hk_usp_std",
+    "_parent": "55818a304bdc2db5418b457d",
+    "_type": "Item",
+    "_props": {
+      "Name": "reciever_glock_glock_17_std",
+      "ShortName": "reciever_glock_glock_17_std",
+      "Description": "reciever_glock_glock_17_std",
+      "Weight": 0.63,
+      "BackgroundColor": "blue",
+      "Width": 2,
+      "Height": 1,
+      "StackMaxSize": 1,
+      "ItemSound": "mod",
+      "Prefab": {
+        "path": "assets/content/items/G-mods/recievers/Desert Eagle/reciever_usp_hk_elite.bundle",
+        "rcid": ""
+      },
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "StackObjectsCount": 1,
+      "NotShownInSlot": false,
+      "ExaminedByDefault": true,
+      "ExamineTime": 1,
+      "IsUndiscardable": false,
+      "IsUnsaleable": false,
+      "IsUnbuyable": false,
+      "IsUngivable": false,
+      "IsLockedafterEquip": false,
+      "QuestItem": false,
+      "LootExperience": 10,
+      "ExamineExperience": 2,
+      "HideEntrails": false,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "MergesWithChildren": true,
+      "CanSellOnRagfair": true,
+      "CanRequireOnRagfair": false,
+      "ConflictingItems": [
+	  "Desert Eagle mag",
+	  "Desert Eagle barrel"
+	  ],
+      "Unlootable": false,
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UnlootableFromSide": [],
+      "AnimationVariantsNumber": 0,
+      "DiscardingBlock": false,
+      "RagFairCommissionModifier": 1,
+      "IsAlwaysAvailableForInsurance": false,
+      "DiscardLimit": -1,
+      "DropSoundType": "None",
+      "InsuranceDisabled": false,
+      "QuestStashMaxCount": 0,
+      "IsSpecialSlotOnly": false,
+      "IsUnremovable": false,
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_sight_rear",
+          "_id": "6193d382ed0429009f543e67",
+          "_parent": "Desert Eagle receiver 50",
+          "_props": {
+            "filters": [
+              {
+                "Shift": 0,
+                "Filter": [
+                  "Desert Eagle sight rear"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "Durability": 100,
+      "Accuracy": -2,
+      "Recoil": 30,
+      "Loudness": 10,
+      "EffectiveDistance": 0,
+      "Ergonomics": -1,
+      "Velocity": 0,
+      "RaidModdable": true,
+      "ToolModdable": false,
+      "BlocksFolding": false,
+      "BlocksCollapsible": false,
+      "IsAnimated": false,
+      "HasShoulderContact": false,
+      "SightingRange": 0,
+      "DoubleActionAccuracyPenaltyMult": 1,
+      "DurabilityBurnModificator": 1,
+      "HeatFactor": 1.08,
+      "CoolFactor": 1.0
+    },
+    "_proto": "560d61e84bdc2da74d8b4571"
+}

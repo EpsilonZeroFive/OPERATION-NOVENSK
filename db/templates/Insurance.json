@@ -1,0 +1,8 @@
+{
+    "insuranceMultiplier":{
+		"GriffinSupplier": 0.3
+    },
+    "returnChancePercent": {
+		"GriffinSupplier": 90
+    }
+}

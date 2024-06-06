@@ -1,0 +1,4300 @@
+{
+	"introduction": {
+        "QuestName": "001",
+		"traderId": "GriffinSupplier",
+        "_id": "introduction",	
+        "image": "/files/quest/icon/G&K.jpg",		
+        "templateId": "introduction successMessageText",  
+        "description": "introduction description",
+        "failMessageText": "introduction failMessageText",
+		"startedMessageText": "introduction startedMessageText",
+        "successMessageText": "introduction successMessageText",
+        "name": "introduction name",
+        "note": "introduction note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "introduction01",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "introduction02"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "introductionmission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": true,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }       
+    },
+	"main001": {
+        "QuestName": "001",
+		"traderId": "GriffinSupplier",
+        "_id": "main001",	
+        "image": "/files/quest/icon/main001.jpg",		
+        "templateId": "main001 successMessageText",  
+        "description": "main001 description",
+        "failMessageText": "main001 failMessageText",
+		"startedMessageText": "main001 startedMessageText",
+        "successMessageText": "main001 successMessageText",
+        "name": "main001 name",
+        "note": "main001 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main00101",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main00102"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main001mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": true,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "target": "001",
+              "value": "1",
+              "id": "reward0001",
+              "type": "Item",
+              "index": 0,
+              "items": [
+                  {
+                      "_id": "001",
+                      "_tpl": "#206105092012",
+                      "upd": {
+                          "StackObjectsCount": 1
+                      }
+                  }
+              ]
+			},
+			{
+                "value": "30000",
+                "id": "main00103",
+                "type": "Experience",
+                "index": 1
+            }
+            ],
+			"Fail": []
+        }       
+    },
+	"main002": {
+        "QuestName": "002",
+		"traderId": "GriffinSupplier",
+        "_id": "main002",	
+        "image": "/files/quest/icon/G&K.jpg",		
+        "templateId": "main002 successMessageText",  
+        "description": "main002 description",
+        "failMessageText": "main002 failMessageText",
+		"startedMessageText": "main002 startedMessageText",
+        "successMessageText": "main002 successMessageText",
+        "name": "main002 name",
+        "note": "main002 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart002",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main001",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main00201",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main00202"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main002mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": true,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+                "value": "30000",
+                "id": "main4002",
+                "type": "Experience",
+                "index": 1
+              }
+            ],
+			"Fail": []
+        }       
+    },
+	"main003": {
+        "QuestName": "003",
+		"traderId": "GriffinSupplier",
+        "_id": "main003",	
+        "image": "/files/quest/icon/commandroom.jpg",		
+        "templateId": "main003 successMessageText",  
+        "description": "main003 description",
+        "failMessageText": "main003 failMessageText",
+		"startedMessageText": "main003 startedMessageText",
+        "successMessageText": "main003 successMessageText",
+        "name": "main003 name",
+        "note": "main003 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart003",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main002",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main003 visit01",
+                    "target": "place_peacemaker_010_2",
+                    "value": "1"
+                  }
+                }
+              ],
+              "id": "main003 visit02"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main003 visittext01",
+            "index": 1,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "1",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": true,
+        "isKey": false,
+        "location": "5704e554d2720bac5b8b456e",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+                "value": "30000",
+                "id": "main4003",
+                "type": "Experience",
+                "index": 1
+              }
+            ],
+			"Fail": []
+        }       
+    },
+	"main004": {
+        "QuestName": "004",
+		"traderId": "GriffinSupplier",
+        "_id": "main004",	
+        "image": "/files/quest/icon/WarehouseON.jpg",		
+        "templateId": "main004 successMessageText",  
+        "description": "main004 description",
+        "failMessageText": "main004 failMessageText",
+		"startedMessageText": "main004 startedMessageText",
+        "successMessageText": "main004 successMessageText",
+        "name": "main004 name",
+        "note": "main004 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart004",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main003",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main00401",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main00402"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main004mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": true,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+                "value": "30000",
+                "id": "main4004",
+                "type": "Experience",
+                "index": 1
+            }
+            ],
+			"Fail": []
+        }       
+    },
+	"main005": {
+        "QuestName": "005",
+		"traderId": "GriffinSupplier",
+        "_id": "main005",	
+        "image": "/files/quest/icon/Maintenance.jpg",		
+        "templateId": "main005 successMessageText",  
+        "description": "main005 description",
+        "failMessageText": "main005 failMessageText",
+		"startedMessageText": "main005 startedMessageText",
+        "successMessageText": "main005 successMessageText",
+        "name": "main005 name",
+        "note": "main005 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart005",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main004",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main00501",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main00502"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main005mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": true,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5005",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main006": {
+        "QuestName": "006",
+		"traderId": "GriffinSupplier",
+        "_id": "main006",	
+        "image": "/files/quest/icon/commandroom.jpg",		
+        "templateId": "main006 successMessageText",  
+        "description": "main006 description",
+        "failMessageText": "main006 failMessageText",
+		"startedMessageText": "main006 startedMessageText",
+        "successMessageText": "main006 successMessageText",
+        "name": "main006 name",
+        "note": "main006 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart006",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main005",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+			{
+              "_parent": "CounterCreator",
+              "_props": {
+                  "value": "5",
+                  "type": "Elimination",
+                  "counter": {
+                      "id": "main1006",
+                      "conditions": [
+                          {
+                              "_parent": "Kills",
+                              "_props": {
+                                 "target": "Savage",
+                                 "compareMethod": ">=",
+                                 "value": "1",
+                                 "savageRole": [],
+                                  "id": "main2006"
+                              }
+                          },
+                          {
+                            "_parent": "Location",
+                            "_props": {
+                              "dynamicLocale": false,
+                              "target": ["Shoreline"],
+                              "id": "main3006"
+                            }
+                          }
+                     ]
+                  },
+                  "index": 0,
+                  "parentId": "",
+                  "id": "main006mission01"
+                }
+              }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": true,
+        "isKey": false,
+        "location": "5704e554d2720bac5b8b456e",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [
+			{
+              "target": "006",
+              "value": "1",
+              "id": "reward0006",
+              "type": "Item",
+              "index": 0,
+              "items": [
+                  {
+                      "_id": "006",
+                      "_tpl": "#Analysis of the situation in Novensk",
+                      "upd": {
+                          "StackObjectsCount": 1
+                      }
+                  }
+              ]
+			}
+			],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5006",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main007": {
+        "QuestName": "007",
+		"traderId": "GriffinSupplier",
+        "_id": "main007",	
+        "image": "/files/quest/icon/commandroom.jpg",		
+        "templateId": "main007 successMessageText",  
+        "description": "main007 description",
+        "failMessageText": "main007 failMessageText",
+		"startedMessageText": "main007 startedMessageText",
+        "successMessageText": "main007 successMessageText",
+        "name": "main007 name",
+        "note": "main007 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart007",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main006",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main007 visit01",
+                    "target": "place_peacemaker_005_N2",
+                    "value": "1"
+                  }
+                }
+              ],
+              "id": "main007 visit02"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main007 visittext01",
+            "index": 1,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "1",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": true,
+        "isKey": false,
+        "location": "5704e554d2720bac5b8b456e",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "target": "calok_b",
+              "value": "1",
+              "id": "reward_main007_01",
+              "type": "Item",
+              "index": 0,
+              "items": [
+                  {
+                      "_id": "calok_b",
+                      "_tpl": "5e8488fa988a8701445df1e4",
+                      "upd": {
+                          "StackObjectsCount": 1
+                      }
+                  }
+				]
+			},
+			{
+              "target": "esmarch",
+              "value": "3",
+              "id": "reward_main007_02",
+              "type": "Item",
+              "index": 0,
+              "items": [
+                  {
+                      "_id": "esmarch",
+                      "_tpl": "5e831507ea0a7c419c2f9bd9",
+                      "upd": {
+                          "StackObjectsCount": 1
+                      }
+                  }
+				]
+			},
+			{
+              "target": "bandage",
+              "value": "3",
+              "id": "reward_main007_03",
+              "type": "Item",
+              "index": 0,
+              "items": [
+                  {
+                      "_id": "bandage",
+                      "_tpl": "5751a25924597722c463c472",
+                      "upd": {
+                          "StackObjectsCount": 1
+                      }
+                  }
+				]
+			},
+			{
+              "target": "splint",
+              "value": "1",
+              "id": "reward_main007_04",
+              "type": "Item",
+              "index": 0,
+              "items": [
+                  {
+                      "_id": "splint",
+                      "_tpl": "5af0454c86f7746bf20992e8",
+                      "upd": {
+                          "StackObjectsCount": 1
+                      }
+                  }
+				]
+			},
+			{
+              "target": "morphine",
+              "value": "1",
+              "id": "reward_main007_05",
+              "type": "Item",
+              "index": 0,
+              "items": [
+                  {
+                      "_id": "morphine",
+                      "_tpl": "544fb3f34bdc2d03748b456a",
+                      "upd": {
+                          "StackObjectsCount": 1
+                      }
+                  }
+				]
+			},
+			{
+              "target": "556mag",
+              "value": "3",
+              "id": "reward_main007_06",
+              "type": "Item",
+              "index": 0,
+              "items": [
+                  {
+                      "_id": "556mag",
+                      "_tpl": "55d4887d4bdc2d962f8b4570",
+                      "upd": {
+                          "StackObjectsCount": 1
+                      }
+                  }
+				]
+			},
+        {
+          "findInRaid": true,
+          "id": "main007_M4A1_01",
+          "index": 4,
+          "items": [
+            {
+              "_id": "main007_M4A1_02",
+              "_tpl": "5447a9cd4bdc2dbd208b4567",
+              "upd": {
+                "FireMode": {
+                  "FireMode": "single"
+                },
+                "StackObjectsCount": 1
+              }
+            },
+            {
+              "_id": "main007_M4A1_02_receiver",
+              "_tpl": "55d355e64bdc2d962f8b4569",
+              "parentId": "main007_M4A1_02",
+              "slotId": "mod_reciever"
+            },
+            {
+              "_id": "main007_M4A1_02_pistol_grip",
+              "_tpl": "55d4b9964bdc2d1d4e8b456e",
+              "parentId": "main007_M4A1_02",
+              "slotId": "mod_pistol_grip"
+            },
+            {
+              "_id": "main007_M4A1_02_magazine",
+              "_tpl": "55d4887d4bdc2d962f8b4570",
+              "parentId": "main007_M4A1_02",
+              "slotId": "mod_magazine"
+            },
+            {
+              "_id": "main007_M4A1_02_stock",
+              "_tpl": "5649be884bdc2d79388b4577",
+              "parentId": "main007_M4A1_02",
+              "slotId": "mod_stock"
+            },
+            {
+              "_id": "main007_M4A1_02_charge",
+              "_tpl": "55d44fd14bdc2d962f8b456e",
+              "parentId": "main007_M4A1_02",
+              "slotId": "mod_charge"
+            },
+            {
+              "_id": "main007_M4A1_02_barrel",
+              "_tpl": "55d3632e4bdc2d972f8b4569",
+              "parentId": "main007_M4A1_02_receiver",
+              "slotId": "mod_barrel"
+            },
+            {
+              "_id": "main007_M4A1_02_handguard",
+              "_tpl": "55d459824bdc2d892f8b4573",
+              "parentId": "main007_M4A1_02_receiver",
+              "slotId": "mod_handguard"
+            },
+            {
+              "_id": "main007_M4A1_02_handguard1",
+              "_tpl": "637f57b78d137b27f70c496a",
+              "parentId": "main007_M4A1_02_handguard",
+              "slotId": "mod_handguard"
+            },
+            {
+              "_id": "main007_M4A1_02_sight_rear",
+              "_tpl": "55d5f46a4bdc2d1b198b4567",
+              "parentId": "main007_M4A1_02_receiver",
+              "slotId": "mod_sight_rear"
+            },
+            {
+              "_id": "main007_M4A1_02_stock1",
+              "_tpl": "55d4ae6c4bdc2d8b2f8b456e",
+              "parentId": "main007_M4A1_02_stock",
+              "slotId": "mod_stock_000"
+            },
+            {
+              "_id": "main007_M4A1_02_muzzle",
+              "_tpl": "544a38634bdc2d58388b4568",
+              "parentId": "main007_M4A1_02_barrel",
+              "slotId": "mod_muzzle"
+            },
+            {
+              "_id": "main007_M4A1_02_gas_block",
+              "_tpl": "5ae30e795acfc408fb139a0b",
+              "parentId": "main007_M4A1_02_barrel",
+              "slotId": "mod_gas_block"
+            }
+          ],
+          "target": "main007_M4A1_02",
+          "type": "Item",
+          "value": "2"
+        },
+			{
+              "value": "30000",
+              "id": "main007_Ex_01",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main008": {
+        "QuestName": "008",
+		"traderId": "GriffinSupplier",
+        "_id": "main008",	
+        "image": "/files/quest/icon/main008.jpg",		
+        "templateId": "main008 successMessageText",  
+        "description": "main008 description",
+        "failMessageText": "main008 failMessageText",
+		"startedMessageText": "main008 startedMessageText",
+        "successMessageText": "main008 successMessageText",
+        "name": "main008 name",
+        "note": "main008 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart008",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main007",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main00801",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main00802"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main008mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": true,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main009": {
+        "QuestName": "009",
+		"traderId": "GriffinSupplier",
+        "_id": "main009",	
+        "image": "/files/quest/icon/main009.jpg",		
+        "templateId": "main009 successMessageText",  
+        "description": "main009 description",
+        "failMessageText": "main009 failMessageText",
+		"startedMessageText": "main009 startedMessageText",
+        "successMessageText": "main009 successMessageText",
+        "name": "main009 name",
+        "note": "main009 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart009",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main008",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main009_visit_01",
+                    "target": "place_peacemaker_004_N1",
+                    "value": "1"
+                  }
+                }
+              ],
+              "id": "main009_visit_02"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main009_visit_text_01",
+            "index": 0,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "1",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        },
+        {
+          "_parent": "FindItem",
+          "_props": {
+            "countInRaid": false,
+            "dogtagLevel": 0,
+            "dynamicLocale": false,
+            "id": "main009_find_01",
+            "index": 1,
+            "isEncoded": false,
+            "maxDurability": 100,
+            "minDurability": 0,
+            "onlyFoundInRaid": false,
+            "parentId": "",
+            "target": [
+              "5a294d7c86f7740651337cf9"
+            ],
+            "value": "1",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        },
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main009_visit_03",
+                    "target": "place_peacemaker_004_N2",
+                    "value": "1"
+                  }
+                }
+              ],
+              "id": "main009_visit_04"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main009_visit_text_02",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "1",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        },
+        {
+          "_parent": "FindItem",
+          "_props": {
+            "countInRaid": false,
+            "dogtagLevel": 0,
+            "dynamicLocale": false,
+            "id": "main009_find_02",
+            "index": 5,
+            "isEncoded": false,
+            "maxDurability": 100,
+            "minDurability": 0,
+            "onlyFoundInRaid": false,
+            "parentId": "",
+            "target": [
+              "5a294d8486f774068638cd93"
+            ],
+            "value": "1",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "5704e554d2720bac5b8b456e",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5009",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main010": {
+        "QuestName": "010",
+		"traderId": "GriffinSupplier",
+        "_id": "main010",	
+        "image": "/files/quest/icon/main010.jpg",		
+        "templateId": "main010 successMessageText",  
+        "description": "main010 description",
+        "failMessageText": "main010 failMessageText",
+		"startedMessageText": "main010 startedMessageText",
+        "successMessageText": "main010 successMessageText",
+        "name": "main010 name",
+        "note": "main010 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart010",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main009",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main01001",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main01002"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main010mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [
+			],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main011": {
+        "QuestName": "011",
+		"traderId": "GriffinSupplier",
+        "_id": "main011",	
+        "image": "/files/quest/icon/main011.jpg",		
+        "templateId": "main011 successMessageText",  
+        "description": "main011 description",
+        "failMessageText": "main011 failMessageText",
+		"startedMessageText": "main011 startedMessageText",
+        "successMessageText": "main011 successMessageText",
+        "name": "main011 name",
+        "note": "main011 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart011",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main010",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+			{
+              "_parent": "CounterCreator",
+              "_props": {
+                  "value": "3",
+                  "type": "Elimination",
+                  "counter": {
+                      "id": "main1011",
+                      "conditions": [
+                          {
+                              "_parent": "Kills",
+                              "_props": {
+                                 "target": "Bear",
+                                 "compareMethod": ">=",
+                                 "value": "1",
+                                 "savageRole": [],
+                                  "id": "main2011"
+                              }
+                          },
+                          {
+                            "_parent": "Location",
+                            "_props": {
+                              "dynamicLocale": false,
+                              "target": ["Shoreline"],
+                              "id": "main3011"
+                            }
+                          }
+                     ]
+                  },
+                  "index": 0,
+                  "parentId": "",
+                  "id": "main011mission01"
+                }
+              }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "5704e554d2720bac5b8b456e",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5011",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main012": {
+        "QuestName": "012",
+		"traderId": "GriffinSupplier",
+        "_id": "main012",	
+        "image": "/files/quest/icon/main012.jpg",		
+        "templateId": "main012 successMessageText",  
+        "description": "main012 description",
+        "failMessageText": "main012 failMessageText",
+		"startedMessageText": "main012 startedMessageText",
+        "successMessageText": "main012 successMessageText",
+        "name": "main012 name",
+        "note": "main012 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart012",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main011",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main01201",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main01202"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main012mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main013": {
+        "QuestName": "013",
+		"traderId": "GriffinSupplier",
+        "_id": "main013",	
+        "image": "/files/quest/icon/commandroom.jpg",		
+        "templateId": "main013 successMessageText",  
+        "description": "main013 description",
+        "failMessageText": "main013 failMessageText",
+		"startedMessageText": "main013 startedMessageText",
+        "successMessageText": "main013 successMessageText",
+        "name": "main013 name",
+        "note": "main013 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart013",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main012",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+			{
+              "_parent": "CounterCreator",
+              "_props": {
+                  "value": "5",
+                  "type": "Elimination",
+                  "counter": {
+                      "id": "main1013",
+                      "conditions": [
+                          {
+                              "_parent": "Kills",
+                              "_props": {
+                                 "target": "Bear",
+                                 "compareMethod": ">=",
+                                 "value": "1",
+                                 "savageRole": [],
+                                  "id": "main2013"
+                              }
+                          },
+                          {
+                            "_parent": "Location",
+                            "_props": {
+                              "dynamicLocale": false,
+                              "target": ["Shoreline"],
+                              "id": "main3013"
+                            }
+                          }
+                     ]
+                  },
+                  "index": 0,
+                  "parentId": "",
+                  "id": "main013mission01"
+                }
+              }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "5704e554d2720bac5b8b456e",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5013",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main014": {
+        "QuestName": "014",
+		"traderId": "GriffinSupplier",
+        "_id": "main014",	
+        "image": "/files/quest/icon/main014.png",		
+        "templateId": "main014 successMessageText",  
+        "description": "main014 description",
+        "failMessageText": "main014 failMessageText",
+		"startedMessageText": "main014 startedMessageText",
+        "successMessageText": "main014 successMessageText",
+        "name": "main014 name",
+        "note": "main014 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart014",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main013",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main01401",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main01402"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main014mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main015": {
+        "QuestName": "015",
+		"traderId": "GriffinSupplier",
+        "_id": "main015",	
+        "image": "/files/quest/icon/commandroom.jpg",		
+        "templateId": "main015 successMessageText",  
+        "description": "main015 description",
+        "failMessageText": "main015 failMessageText",
+		"startedMessageText": "main015 startedMessageText",
+        "successMessageText": "main015 successMessageText",
+        "name": "main015 name",
+        "note": "main015 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart015",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main014",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main01501",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main01502"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main015mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main016": {
+        "QuestName": "016",
+		"traderId": "GriffinSupplier",
+        "_id": "main016",	
+        "image": "/files/quest/icon/WarehouseON.jpg",		
+        "templateId": "main016 successMessageText",  
+        "description": "main016 description",
+        "failMessageText": "main016 failMessageText",
+		"startedMessageText": "main016 startedMessageText",
+        "successMessageText": "main016 successMessageText",
+        "name": "main016 name",
+        "note": "main016 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart016",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main015",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "main016handover01",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "5c06779c86f77426e00dd782"
+          ],
+          "value": 3,
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "main016handover02",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "590a3b0486f7743954552bdb"
+          ],
+          "value": 3,
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "main016handover03",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "57347c2e24597744902c94a1"
+          ],
+          "value": 1,
+          "visibilityConditions": []
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5016",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main017": {
+        "QuestName": "017",
+		"traderId": "GriffinSupplier",
+        "_id": "main017",	
+        "image": "/files/quest/icon/commandroom.jpg",		
+        "templateId": "main017 successMessageText",  
+        "description": "main017 description",
+        "failMessageText": "main017 failMessageText",
+		"startedMessageText": "main017 startedMessageText",
+        "successMessageText": "main017 successMessageText",
+        "name": "main017 name",
+        "note": "main017 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart017",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main016",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main01701",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main01702"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main017mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main018": {
+        "QuestName": "018",
+		"traderId": "GriffinSupplier",
+        "_id": "main018",	
+        "image": "/files/quest/icon/Dorm.jpg",		
+        "templateId": "main018 successMessageText",  
+        "description": "main018 description",
+        "failMessageText": "main018 failMessageText",
+		"startedMessageText": "main018 startedMessageText",
+        "successMessageText": "main018 successMessageText",
+        "name": "main018 name",
+        "note": "main018 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart018",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main017",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main01801",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main01802"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main018mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main019": {
+        "QuestName": "019",
+		"traderId": "GriffinSupplier",
+        "_id": "main019",	
+        "image": "/files/quest/icon/commandroom.jpg",		
+        "templateId": "main019 successMessageText",  
+        "description": "main019 description",
+        "failMessageText": "main019 failMessageText",
+		"startedMessageText": "main019 startedMessageText",
+        "successMessageText": "main019 successMessageText",
+        "name": "main019 name",
+        "note": "main019 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart019",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main018",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main01901",
+                    "target": "place_peacemaker_009_3_N1",
+                    "value": "1"
+                  }
+                }
+              ],
+              "id": "main01902"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main019mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "1",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "5704e554d2720bac5b8b456e",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5019",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main020": {
+        "QuestName": "020",
+		"traderId": "GriffinSupplier",
+        "_id": "main020",	
+        "image": "/files/quest/icon/main020.jpg",		
+        "templateId": "main020 successMessageText",  
+        "description": "main020 description",
+        "failMessageText": "main020 failMessageText",
+		"startedMessageText": "main020 startedMessageText",
+        "successMessageText": "main020 successMessageText",
+        "name": "main020 name",
+        "note": "main020 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart020",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main019",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+              ],
+              "id": "main02002"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main020mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main021": {
+        "QuestName": "021",
+		"traderId": "GriffinSupplier",
+        "_id": "main021",	
+        "image": "/files/quest/icon/main021.jpg",		
+        "templateId": "main021 successMessageText",  
+        "description": "main021 description",
+        "failMessageText": "main021 failMessageText",
+		"startedMessageText": "main021 startedMessageText",
+        "successMessageText": "main021 successMessageText",
+        "name": "main021 name",
+        "note": "main021 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart021",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main020",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "Kills",
+                  "_props": {
+                    "compareMethod": ">=",
+                    "id": "mainkill1021",
+                    "target": "Usec",
+                    "value": "1"
+                  }
+                }
+              ],
+              "id": "mainkill2021"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main021mission01",
+            "index": 0,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Elimination",
+            "value": "5",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        },
+        {
+          "_parent": "LeaveItemAtLocation",
+          "_props": {
+            "dogtagLevel": 1,
+            "dynamicLocale": false,
+            "id": "mainput1021",
+            "index": 0,
+            "isEncoded": false,
+            "maxDurability": 0,
+            "minDurability": 0,
+            "onlyFoundInRaid": true,
+            "parentId": "",
+            "plantTime": 1,
+            "target": [
+              "59f32c3b86f77472a31742f0"
+            ],
+            "value": "5",
+            "visibilityConditions": [],
+            "zoneId": "huntsman_005_1"
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5021",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main022": {
+        "QuestName": "022",
+		"traderId": "GriffinSupplier",
+        "_id": "main022",	
+        "image": "/files/quest/icon/main022.jpg",		
+        "templateId": "main022 successMessageText",  
+        "description": "main022 description",
+        "failMessageText": "main022 failMessageText",
+		"startedMessageText": "main022 startedMessageText",
+        "successMessageText": "main022 successMessageText",
+        "name": "main022 name",
+        "note": "main022 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart022",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main021",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main02201",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main02202"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main022mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main023": {
+        "QuestName": "023",
+		"traderId": "GriffinSupplier",
+        "_id": "main023",	
+        "image": "/files/quest/icon/main023.jpg",		
+        "templateId": "main023 successMessageText",  
+        "description": "main023 description",
+        "failMessageText": "main023 failMessageText",
+		"startedMessageText": "main023 startedMessageText",
+        "successMessageText": "main023 successMessageText",
+        "name": "main023 name",
+        "note": "main023 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart023",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main022",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "LeaveItemAtLocation",
+          "_props": {
+            "dogtagLevel": 1,
+            "dynamicLocale": false,
+            "id": "mainput1023",
+            "index": 0,
+            "isEncoded": false,
+            "maxDurability": 0,
+            "minDurability": 0,
+            "onlyFoundInRaid": false,
+            "parentId": "",
+            "plantTime": 1,
+            "target": [
+              "57347d7224597744596b4e72"
+            ],
+            "value": "5",
+            "visibilityConditions": [],
+            "zoneId": "huntsman_005_1"
+          },
+          "dynamicLocale": false
+        },
+        {
+          "_parent": "LeaveItemAtLocation",
+          "_props": {
+            "dogtagLevel": 1,
+            "dynamicLocale": false,
+            "id": "mainput2023",
+            "index": 0,
+            "isEncoded": false,
+            "maxDurability": 0,
+            "minDurability": 0,
+            "onlyFoundInRaid": false,
+            "parentId": "",
+            "plantTime": 1,
+            "target": [
+              "5448fee04bdc2dbc018b4567"
+            ],
+            "value": "5",
+            "visibilityConditions": [],
+            "zoneId": "huntsman_005_1"
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "5704e3c2d2720bac5b8b4567",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5023",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main024": {
+        "QuestName": "024",
+		"traderId": "GriffinSupplier",
+        "_id": "main024",	
+        "image": "/files/quest/icon/zb106.jpg",		
+        "templateId": "main024 successMessageText",  
+        "description": "main024 description",
+        "failMessageText": "main024 failMessageText",
+		"startedMessageText": "main024 startedMessageText",
+        "successMessageText": "main024 successMessageText",
+        "name": "main024 name",
+        "note": "main024 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart024",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main023",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main02401",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main02402"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main024mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main025": {
+        "QuestName": "025",
+		"traderId": "GriffinSupplier",
+        "_id": "main025",	
+        "image": "/files/quest/icon/main025.jpg",		
+        "templateId": "main025 successMessageText",  
+        "description": "main025 description",
+        "failMessageText": "main025 failMessageText",
+		"startedMessageText": "main025 startedMessageText",
+        "successMessageText": "main025 successMessageText",
+        "name": "main025 name",
+        "note": "main025 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart025",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main024",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "FindItem",
+          "_props": {
+            "countInRaid": false,
+            "dogtagLevel": 0,
+            "dynamicLocale": false,
+            "id": "mainfind025",
+            "index": 2,
+            "isEncoded": false,
+            "maxDurability": 100,
+            "minDurability": 0,
+            "onlyFoundInRaid": false,
+            "parentId": "",
+            "target": [
+              "5939e5a786f77461f11c0098"
+            ],
+            "value": "1",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "mainhandover025",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "5939e5a786f77461f11c0098"
+          ],
+          "value": 3,
+          "visibilityConditions": []
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "5704e554d2720bac5b8b456e",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5025",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main026": {
+        "QuestName": "026",
+		"traderId": "GriffinSupplier",
+        "_id": "main026",	
+        "image": "/files/quest/icon/box.jpg",		
+        "templateId": "main026 successMessageText",  
+        "description": "main026 description",
+        "failMessageText": "main026 failMessageText",
+		"startedMessageText": "main026 startedMessageText",
+        "successMessageText": "main026 successMessageText",
+        "name": "main026 name",
+        "note": "main026 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart026",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main025",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main02601",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main02602"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main026mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main027": {
+        "QuestName": "027",
+		"traderId": "GriffinSupplier",
+        "_id": "main027",	
+        "image": "/files/quest/icon/main027.jpg",		
+        "templateId": "main027 successMessageText",  
+        "description": "main027 description",
+        "failMessageText": "main027 failMessageText",
+		"startedMessageText": "main027 startedMessageText",
+        "successMessageText": "main027 successMessageText",
+        "name": "main027 name",
+        "note": "main027 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart027",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main026",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main02701",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main02702"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main027mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main028": {
+        "QuestName": "028",
+		"traderId": "GriffinSupplier",
+        "_id": "main028",	
+        "image": "/files/quest/icon/commandroom.jpg",		
+        "templateId": "main028 successMessageText",  
+        "description": "main028 description",
+        "failMessageText": "main028 failMessageText",
+		"startedMessageText": "main028 startedMessageText",
+        "successMessageText": "main028 successMessageText",
+        "name": "main028 name",
+        "note": "main028 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart028",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main027",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "Kills",
+                  "_props": {
+                    "compareMethod": ">=",
+                    "id": "mainkill10218",
+                    "target": "Savage",
+                    "value": "1"
+                  }
+                }
+              ],
+              "id": "mainkill2028"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main028mission01",
+            "index": 0,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Elimination",
+            "value": "5",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "5704e3c2d2720bac5b8b4567",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5028",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main029": {
+        "QuestName": "029",
+		"traderId": "GriffinSupplier",
+        "_id": "main029",	
+        "image": "/files/quest/icon/main029.png",		
+        "templateId": "main029 successMessageText",  
+        "description": "main029 description",
+        "failMessageText": "main029 failMessageText",
+		"startedMessageText": "main029 startedMessageText",
+        "successMessageText": "main029 successMessageText",
+        "name": "main029 name",
+        "note": "main029 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart029",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main028",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main02901",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main02902"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main029mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main030": {
+        "QuestName": "030",
+		"traderId": "GriffinSupplier",
+        "_id": "main030",	
+        "image": "/files/quest/icon/main030.jpg",		
+        "templateId": "main030 successMessageText",  
+        "description": "main030 description",
+        "failMessageText": "main030 failMessageText",
+		"startedMessageText": "main030 startedMessageText",
+        "successMessageText": "main030 successMessageText",
+        "name": "main030 name",
+        "note": "main030 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart030",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main029",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main030 visit01",
+                    "target": "pr_scout_col",
+                    "value": "1"
+                  }
+                }
+              ],
+              "id": "main030 visit02"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main030 visittext01",
+            "index": 0,
+            "oneSessionOnly": true,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "1",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        },
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main030 visit03",
+                    "target": "pr_scout_base",
+                    "value": "1"
+                  }
+                }
+              ],
+              "id": "main030 visit04"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main030 visittext02",
+            "index": 1,
+            "oneSessionOnly": true,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "1",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "5704e3c2d2720bac5b8b4567",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5030",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main031": {
+        "QuestName": "031",
+		"traderId": "GriffinSupplier",
+        "_id": "main031",	
+        "image": "/files/quest/icon/main031.jpg",		
+        "templateId": "main031 successMessageText",  
+        "description": "main031 description",
+        "failMessageText": "main031 failMessageText",
+		"startedMessageText": "main031 startedMessageText",
+        "successMessageText": "main031 successMessageText",
+        "name": "main031 name",
+        "note": "main031 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart031",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main030",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main03101",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main03102"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main031mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main032": {
+        "QuestName": "032",
+		"traderId": "GriffinSupplier",
+        "_id": "main032",	
+        "image": "/files/quest/icon/factory.jpg",		
+        "templateId": "main032 successMessageText",  
+        "description": "main032 description",
+        "failMessageText": "main032 failMessageText",
+		"startedMessageText": "main032 startedMessageText",
+        "successMessageText": "main032 successMessageText",
+        "name": "main032 name",
+        "note": "main032 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart032",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main031",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "Kills",
+                  "_props": {
+                    "compareMethod": ">=",
+                    "id": "mainkill1032",
+                    "target": "Usec",
+                    "value": "1"
+                  }
+                }
+              ],
+              "id": "mainkill2032"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main032mission01",
+            "index": 0,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Elimination",
+            "value": "3",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "5704e4dad2720bb55b8b4567",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5032",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main033": {
+        "QuestName": "033",
+		"traderId": "GriffinSupplier",
+        "_id": "main033",	
+        "image": "/files/quest/icon/Maintenance.jpg",		
+        "templateId": "main033 successMessageText",  
+        "description": "main033 description",
+        "failMessageText": "main033 failMessageText",
+		"startedMessageText": "main033 startedMessageText",
+        "successMessageText": "main033 successMessageText",
+        "name": "main033 name",
+        "note": "main033 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart033",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main032",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main03301",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main03302"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main033mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main034": {
+        "QuestName": "034",
+		"traderId": "GriffinSupplier",
+        "_id": "main034",	
+        "image": "/files/quest/icon/main034.jpg",		
+        "templateId": "main034 successMessageText",  
+        "description": "main034 description",
+        "failMessageText": "main034 failMessageText",
+		"startedMessageText": "main034 startedMessageText",
+        "successMessageText": "main034 successMessageText",
+        "name": "main034 name",
+        "note": "main034 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart034",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main033",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "FindItem",
+          "_props": {
+            "countInRaid": false,
+            "dogtagLevel": 0,
+            "dynamicLocale": false,
+            "id": "mainfind1034",
+            "index": 0,
+            "isEncoded": false,
+            "maxDurability": 100,
+            "minDurability": 0,
+            "onlyFoundInRaid": false,
+            "parentId": "",
+            "target": [
+              "5a29284f86f77463ef3db363"
+            ],
+            "value": "1",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        },
+        {
+          "_parent": "LeaveItemAtLocation",
+          "_props": {
+            "dogtagLevel": 1,
+            "dynamicLocale": false,
+            "id": "mainput1034",
+            "index": 0,
+            "isEncoded": false,
+            "maxDurability": 0,
+            "minDurability": 0,
+            "onlyFoundInRaid": false,
+            "parentId": "",
+            "plantTime": 1,
+            "target": [
+              "5a29284f86f77463ef3db363"
+            ],
+            "value": "1",
+            "visibilityConditions": [],
+            "zoneId": "huntsman_005_1"
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "5704e554d2720bac5b8b456e",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [
+			{
+              "target": "306key",
+              "value": "1",
+              "id": "reward_main034_01",
+              "type": "Item",
+              "index": 0,
+              "items": [
+                  {
+                      "_id": "306key",
+                      "_tpl": "5a145d4786f7744cbb6f4a12",
+                      "upd": {
+                          "StackObjectsCount": 1
+                      }
+                  }
+				]
+			}
+			],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5034",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main035": {
+        "QuestName": "035",
+		"traderId": "GriffinSupplier",
+        "_id": "main035",	
+        "image": "/files/quest/icon/Dorm.jpg",		
+        "templateId": "main035 successMessageText",  
+        "description": "main035 description",
+        "failMessageText": "main035 failMessageText",
+		"startedMessageText": "main035 startedMessageText",
+        "successMessageText": "main035 successMessageText",
+        "name": "main035 name",
+        "note": "main035 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart035",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main034",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main03501",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main03502"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main035mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main036": {
+        "QuestName": "036",
+		"traderId": "GriffinSupplier",
+        "_id": "main036",	
+        "image": "/files/quest/icon/main036.png",		
+        "templateId": "main036 successMessageText",  
+        "description": "main036 description",
+        "failMessageText": "main036 failMessageText",
+		"startedMessageText": "main036 startedMessageText",
+        "successMessageText": "main036 successMessageText",
+        "name": "main036 name",
+        "note": "main036 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart036",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main035",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "FindItem",
+          "_props": {
+            "countInRaid": false,
+            "dogtagLevel": 0,
+            "dynamicLocale": false,
+            "id": "mainfind1036",
+            "index": 0,
+            "isEncoded": false,
+            "maxDurability": 100,
+            "minDurability": 0,
+            "onlyFoundInRaid": false,
+            "parentId": "",
+            "target": [
+              "5938878586f7741b797c562f"
+            ],
+            "value": "1",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        },
+        {
+          "_parent": "LeaveItemAtLocation",
+          "_props": {
+            "dogtagLevel": 1,
+            "dynamicLocale": false,
+            "id": "mainput1036",
+            "index": 0,
+            "isEncoded": false,
+            "maxDurability": 0,
+            "minDurability": 0,
+            "onlyFoundInRaid": false,
+            "parentId": "",
+            "plantTime": 1,
+            "target": [
+              "5938878586f7741b797c562f"
+            ],
+            "value": "1",
+            "visibilityConditions": [],
+            "zoneId": "huntsman_005_1"
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "5704e3c2d2720bac5b8b4567",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5036",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main037": {
+        "QuestName": "037",
+		"traderId": "GriffinSupplier",
+        "_id": "main037",	
+        "image": "/files/quest/icon/Bar.jpg",		
+        "templateId": "main037 successMessageText",  
+        "description": "main037 description",
+        "failMessageText": "main037 failMessageText",
+		"startedMessageText": "main037 startedMessageText",
+        "successMessageText": "main037 successMessageText",
+        "name": "main037 name",
+        "note": "main037 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart037",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main036",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main03701",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main03702"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main037mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main038": {
+        "QuestName": "038",
+		"traderId": "GriffinSupplier",
+        "_id": "main038",	
+        "image": "/files/quest/icon/main038.png",		
+        "templateId": "main038 successMessageText",  
+        "description": "main038 description",
+        "failMessageText": "main038 failMessageText",
+		"startedMessageText": "main038 startedMessageText",
+        "successMessageText": "main038 successMessageText",
+        "name": "main038 name",
+        "note": "main038 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart038",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main037",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "main038handover01",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "5c0e531d86f7747fa23f4d42"
+          ],
+          "value": 3,
+          "visibilityConditions": []
+        },
+        {
+          "_parent": "LeaveItemAtLocation",
+          "_props": {
+            "dogtagLevel": 1,
+            "dynamicLocale": false,
+            "id": "mainput1038",
+            "index": 0,
+            "isEncoded": false,
+            "maxDurability": 0,
+            "minDurability": 0,
+            "onlyFoundInRaid": false,
+            "parentId": "",
+            "plantTime": 1,
+            "target": [
+              "5c0e531d86f7747fa23f4d42"
+            ],
+            "value": "2",
+            "visibilityConditions": [],
+            "zoneId": "huntsman_005_1"
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+			{
+              "value": "30000",
+              "id": "main5036",
+              "type": "Experience",
+              "index": 1
+            }
+            ],
+			"Fail": []
+        }
+    },
+	"main039": {
+        "QuestName": "039",
+		"traderId": "GriffinSupplier",
+        "_id": "main039",	
+        "image": "/files/quest/icon/Bar.jpg",		
+        "templateId": "main039 successMessageText",  
+        "description": "main039 description",
+        "failMessageText": "main039 failMessageText",
+		"startedMessageText": "main039 startedMessageText",
+        "successMessageText": "main039 successMessageText",
+        "name": "main039 name",
+        "note": "main039 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart039",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main038",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main03901",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main03902"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main039mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"main040": {
+        "QuestName": "040",
+		"traderId": "GriffinSupplier",
+        "_id": "main040",	
+        "image": "/files/quest/icon/commandroom.jpg",		
+        "templateId": "main040 successMessageText",  
+        "description": "main040 description",
+        "failMessageText": "main040 failMessageText",
+		"startedMessageText": "main040 startedMessageText",
+        "successMessageText": "main040 successMessageText",
+        "name": "main040 name",
+        "note": "main040 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "mainstart040",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main005",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "conditions": [
+                {
+                  "_parent": "VisitPlace",
+                  "_props": {
+                    "id": "main04001",
+                    "target": "",
+                    "value": "0"
+                  }
+                }
+              ],
+              "id": "main04002"
+            },
+            "doNotResetIfCounterCompleted": false,
+            "dynamicLocale": false,
+            "id": "main040mission01",
+            "index": 4,
+            "oneSessionOnly": false,
+            "parentId": "",
+            "type": "Exploration",
+            "value": "0",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+            ],
+			"Fail": []
+        }
+    },
+	"UMP4501": {
+        "QuestName": "UMP4501",
+		"traderId": "GriffinSupplier",
+        "_id": "UMP4501",	
+        "image": "/files/quest/icon/G&K.jpg",		
+        "templateId": "UMP4501 successMessageText",  
+        "description": "UMP4501 description",
+        "failMessageText": "UMP4501 failMessageText",
+		"startedMessageText": "UMP4501 startedMessageText",
+        "successMessageText": "UMP4501 successMessageText",
+        "name": "UMP4501 name",
+        "note": "UMP4501 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "UMP4501",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "main017",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "id": "UMP4501_location_01",
+              "conditions": [
+                {
+                  "_parent": "Location",
+                  "_props": {
+                    "target": [
+                      "bigmap"
+                    ],
+                    "id": "UMP4501_location_02"
+                  }
+                },
+                {
+                  "_parent": "ExitStatus",
+                  "_props": {
+                    "status": [
+                      "Survived",
+                      "Runner"
+                    ],
+                    "id": "UMP4501_exit_01"
+                  }
+                }
+              ]
+            },
+            "id": "UMP4501_text_01",
+            "index": 2,
+            "parentId": "",
+            "oneSessionOnly": false,
+            "dynamicLocale": false,
+            "type": "Completion",
+            "doNotResetIfCounterCompleted": false,
+            "value": "3",
+            "visibilityConditions": [
+              {
+                "_parent": "CompleteCondition",
+                "_props": {
+                  "target": "UMP4501_01",
+                  "id": "UMP4501_02"
+                }
+              }
+            ]
+          },
+          "dynamicLocale": false
+        },
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "id": "UMP4501_location_01",
+              "conditions": [
+                {
+                  "_parent": "Location",
+                  "_props": {
+                    "target": [
+                      "Shoreline",
+					  "bigmap",
+					  "factory4_day",
+					  "factory4_night",
+					  "Interchange",
+					  "laboratory",
+					  "RezervBase",
+					  "Woods",
+					  "Lighthouse"
+                    ],
+                    "id": "UMP4501_location_02"
+                  }
+                },
+                {
+                  "_parent": "ExitStatus",
+                  "_props": {
+                    "status": [
+                      "Survived",
+                      "Runner"
+                    ],
+                    "id": "UMP4501_exit_01"
+                  }
+                }
+              ]
+            },
+            "id": "UMP4501_text_01",
+            "index": 2,
+            "parentId": "",
+            "oneSessionOnly": false,
+            "dynamicLocale": false,
+            "type": "Completion",
+            "doNotResetIfCounterCompleted": false,
+            "value": "3",
+            "visibilityConditions": [
+            ]
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+        {
+          "findInRaid": false,
+          "id": "UMP45_up_01",
+          "index": 4,
+          "items": [
+            {
+              "_id": "UMP45_up_01",
+              "_tpl": "UMP45 MOD1",
+              "upd": {
+                "FireMode": {
+                  "FireMode": "fullauto"
+                },
+                "StackObjectsCount": 1
+              }
+            },
+		{
+			"_id": "UMP45_up_01 mag",
+			"_tpl": "5fc3e466187fea44d52eda90",
+			"parentId": "UMP45_up_01",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "UMP45_up_01 stock",
+			"_tpl": "5fc3e4ee7283c4046c5814af",
+			"parentId": "UMP45_up_01",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "UMP45_up_01 barrel",
+			"_tpl": "5fc3e4a27283c4046c5814ab",
+			"parentId": "UMP45_up_01",
+			"slotId": "mod_barrel"
+		},
+		{
+			"_id": "UMP45_up_01 mount",
+			"_tpl": "5fc53954f8b6a877a729eaeb",
+			"parentId": "UMP45_up_01",
+			"slotId": "mod_mount_000"
+		}
+          ],
+          "target": "UMP45_up_01",
+          "type": "Item",
+          "value": "2"
+        },
+			{
+              "target": "UMP45_up_01_Memory_Fragments",
+              "value": "10",
+              "id": "UMP45_up_01_reward_01",
+              "type": "Item",
+              "index": 0,
+              "items": [
+                  {
+                      "_id": "UMP45_up_01_Memory_Fragments",
+                      "_tpl": "Memory Fragments",
+                      "upd": {
+                          "StackObjectsCount": 1
+                      }
+                  }
+				]
+			}
+			],
+			"Fail": []
+		}
+    },
+	"UMP4502": {
+        "QuestName": "UMP4502",
+		"traderId": "GriffinSupplier",
+        "_id": "UMP4502",	
+        "image": "/files/quest/icon/G&K.jpg",		
+        "templateId": "UMP4502 successMessageText",  
+        "description": "UMP4502 description",
+        "failMessageText": "UMP4502 failMessageText",
+		"startedMessageText": "UMP4502 startedMessageText",
+        "successMessageText": "UMP4502 successMessageText",
+        "name": "UMP4502 name",
+        "note": "UMP4502 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "UMP4502",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "UMP4501",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "id": "UMP4502_location_01",
+              "conditions": [
+                {
+                  "_parent": "Location",
+                  "_props": {
+                    "target": [
+                      "Shoreline",
+					  "bigmap",
+					  "factory4_day",
+					  "factory4_night",
+					  "Interchange",
+					  "laboratory",
+					  "RezervBase",
+					  "Woods",
+					  "Lighthouse"
+                    ],
+                    "id": "UMP4502_location_02"
+                  }
+                },
+                {
+                  "_parent": "ExitStatus",
+                  "_props": {
+                    "status": [
+                      "Survived",
+                      "Runner"
+                    ],
+                    "id": "UMP4502_exit_01"
+                  }
+                }
+              ]
+            },
+            "id": "UMP4502_text_01",
+            "index": 2,
+            "parentId": "",
+            "oneSessionOnly": false,
+            "dynamicLocale": false,
+            "type": "Completion",
+            "doNotResetIfCounterCompleted": false,
+            "value": "4",
+            "visibilityConditions": [
+            ]
+          },
+          "dynamicLocale": false
+        },
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "id": "UMP4502_kill_01",
+              "conditions": [
+                {
+                  "_parent": "Kills",
+                  "_props": {
+                    "target": "AnyPmc",
+                    "compareMethod": ">=",
+                    "value": "1",
+                    "weapon": [
+                      "5fc3e272f8b6a877a729eac5",
+					  "UMP45 MOD1"
+                    ],
+                    "id": "UMP4502_kill_02"
+                  }
+                }
+              ]
+            },
+            "id": "UMP4502_text_02",
+            "index": 0,
+            "parentId": "",
+            "oneSessionOnly": false,
+            "dynamicLocale": false,
+            "type": "Elimination",
+            "doNotResetIfCounterCompleted": false,
+            "value": "10",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+        {
+          "findInRaid": false,
+          "id": "UMP45_up_02",
+          "index": 4,
+          "items": [
+            {
+              "_id": "UMP45_up_02",
+              "_tpl": "UMP45 MOD2",
+              "upd": {
+                "FireMode": {
+                  "FireMode": "fullauto"
+                },
+                "StackObjectsCount": 1
+              }
+            },
+		{
+			"_id": "UMP45_up_02 mag",
+			"_tpl": "5fc3e466187fea44d52eda90",
+			"parentId": "UMP45_up_02",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "UMP45_up_02 stock",
+			"_tpl": "5fc3e4ee7283c4046c5814af",
+			"parentId": "UMP45_up_02",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "UMP45_up_02 barrel",
+			"_tpl": "5fc3e4a27283c4046c5814ab",
+			"parentId": "UMP45_up_02",
+			"slotId": "mod_barrel"
+		},
+		{
+			"_id": "UMP45_up_02 mount",
+			"_tpl": "5fc53954f8b6a877a729eaeb",
+			"parentId": "UMP45_up_02",
+			"slotId": "mod_mount_000"
+		}
+          ],
+          "target": "UMP45_up_02",
+          "type": "Item",
+          "value": "2"
+        },
+			{
+              "target": "UMP45_up_02_Memory_Fragments",
+              "value": "20",
+              "id": "UMP45_up_02_reward_01",
+              "type": "Item",
+              "index": 0,
+              "items": [
+                  {
+                      "_id": "UMP45_up_02_Memory_Fragments",
+                      "_tpl": "Memory Fragments",
+                      "upd": {
+                          "StackObjectsCount": 1
+                      }
+                  }
+				]
+			}
+			],
+			"Fail": []
+		}
+    },
+	"UMP4503": {
+        "QuestName": "UMP4503",
+		"traderId": "GriffinSupplier",
+        "_id": "UMP4503",	
+        "image": "/files/quest/icon/G&K.jpg",		
+        "templateId": "UMP4503 successMessageText",  
+        "description": "UMP4503 description",
+        "failMessageText": "UMP4503 failMessageText",
+		"startedMessageText": "UMP4503 startedMessageText",
+        "successMessageText": "UMP4503 successMessageText",
+        "name": "UMP4503 name",
+        "note": "UMP4503 note",		
+        "type": "Elimination",
+		"secretQuest": false, 
+        "canShowNotificationsInGame": true,
+        "conditions": {          
+            "AvailableForStart": [
+			 {
+               "_parent": "Quest",
+               "_props": {
+                  "id": "UMP4503",
+                  "index": 0,
+                  "parentId": "",
+                  "dynamicLocale": false,
+                  "target": "UMP4502",
+                  "status": [
+                    4
+                  ],
+                  "availableAfter": 0,
+                  "visibilityConditions": []
+               },
+               "dynamicLocale": false
+             }
+			],
+			"AvailableForFinish": [
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "id": "UMP4503_location_01",
+              "conditions": [
+                {
+                  "_parent": "Location",
+                  "_props": {
+                    "target": [
+                      "Shoreline",
+					  "bigmap",
+					  "factory4_day",
+					  "factory4_night",
+					  "Interchange",
+					  "laboratory",
+					  "RezervBase",
+					  "Woods",
+					  "Lighthouse"
+                    ],
+                    "id": "UMP4503_location_02"
+                  }
+                },
+                {
+                  "_parent": "ExitStatus",
+                  "_props": {
+                    "status": [
+                      "Survived",
+                      "Runner"
+                    ],
+                    "id": "UMP4503_exit_01"
+                  }
+                }
+              ]
+            },
+            "id": "UMP4503_text_01",
+            "index": 2,
+            "parentId": "",
+            "oneSessionOnly": false,
+            "dynamicLocale": false,
+            "type": "Completion",
+            "doNotResetIfCounterCompleted": false,
+            "value": "5",
+            "visibilityConditions": [
+            ]
+          },
+          "dynamicLocale": false
+        },
+        {
+          "_parent": "CounterCreator",
+          "_props": {
+            "counter": {
+              "id": "UMP4503_kill_01",
+              "conditions": [
+                {
+                  "_parent": "Kills",
+                  "_props": {
+                    "target": "AnyPmc",
+                    "compareMethod": ">=",
+                    "value": "1",
+                    "weapon": [
+                      "5fc3e272f8b6a877a729eac5",
+					  "UMP45 MOD1",
+					  "UMP45 MOD2"
+                    ],
+                    "id": "UMP4503_kill_02"
+                  }
+                }
+              ]
+            },
+            "id": "UMP4503_text_02",
+            "index": 0,
+            "parentId": "",
+            "oneSessionOnly": false,
+            "dynamicLocale": false,
+            "type": "Elimination",
+            "doNotResetIfCounterCompleted": false,
+            "value": "15",
+            "visibilityConditions": []
+          },
+          "dynamicLocale": false
+        }
+            ],
+            "Fail": []
+        },             
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",       
+        "restartable": false,
+        "rewards": {           
+            "Started": [],
+            "Success": [
+        {
+          "findInRaid": false,
+          "id": "UMP45_up_03",
+          "index": 4,
+          "items": [
+            {
+              "_id": "UMP45_up_03",
+              "_tpl": "UMP45 MOD3",
+              "upd": {
+                "FireMode": {
+                  "FireMode": "fullauto"
+                },
+                "StackObjectsCount": 1
+              }
+            },
+		{
+			"_id": "UMP45_up_03 mag",
+			"_tpl": "5fc3e466187fea44d52eda90",
+			"parentId": "UMP45_up_03",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "UMP45_up_03 stock",
+			"_tpl": "5fc3e4ee7283c4046c5814af",
+			"parentId": "UMP45_up_03",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "UMP45_up_03 barrel",
+			"_tpl": "5fc3e4a27283c4046c5814ab",
+			"parentId": "UMP45_up_03",
+			"slotId": "mod_barrel"
+		},
+		{
+			"_id": "UMP45_up_03 mount",
+			"_tpl": "5fc53954f8b6a877a729eaeb",
+			"parentId": "UMP45_up_03",
+			"slotId": "mod_mount_000"
+		}
+          ],
+          "target": "UMP45_up_03",
+          "type": "Item",
+          "value": "2"
+        },
+			{
+              "target": "UMP45_up_03_Memory_Fragments",
+              "value": "30",
+              "id": "UMP45_up_03_reward_01",
+              "type": "Item",
+              "index": 0,
+              "items": [
+                  {
+                      "_id": "UMP45_up_03_Memory_Fragments",
+                      "_tpl": "Memory Fragments",
+                      "upd": {
+                          "StackObjectsCount": 1
+                      }
+                  }
+				]
+			}
+			],
+			"Fail": []
+		}
+    }
+}

@@ -1,0 +1,3999 @@
+{
+	"manifest": [
+	    {
+			"key": "assets/content/weapons/C14YE/textures/client_assets.bundle",
+			"dependencyKeys": []
+		},
+	    {
+			"key": "assets/content/weapons/C14YE/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/C14YE/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/C14YE/weapon_orsis_t5000_762x51_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/dvl.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/dvl.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/sa58/instr/fal_stock_snd",
+			"assets/content/audio/weapons/sv98.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/C14YE/client_assets.bundle",
+			"assets/content/weapons/C14YE/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/stock_t5000_orsis_t5000_se_folding_stock_std.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/stock_m700_magpul_pro_700_chasiss.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/C14 Mag GN/mag_dvl-10_lobaev_308_10.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/C14 Mag YE/mag_dvl-10_lobaev_308_10.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/C14 Mount YE/mount_t5000_orsis_scope_mount_rail_std.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/C14 Mount GN/mount_t5000_orsis_scope_mount_rail_std.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/C14 Guide rail seat YE/mount_mk16_pws_srx.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/C14 Guide rail seat GN/mount_mk16_pws_srx.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/C14YE/barrel_t5000_660mm_762x51.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/C14GN/barrel_t5000_660mm_762x51.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/C14GN/textures/client_assets.bundle",
+			"dependencyKeys": []
+		},
+	    {
+			"key": "assets/content/weapons/C14GN/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/C14YE/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/C14GN/weapon_orsis_t5000_762x51_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/dvl.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/dvl.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/sa58/instr/fal_stock_snd",
+			"assets/content/audio/weapons/sv98.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/C14GN/client_assets.bundle",
+			"assets/content/weapons/C14GN/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/stock_m700_hogue_overmolded_ghillie_green_pillar_bedded_stock.bundle",
+			"dependencyKeys": [
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/stock_417_hk_417_adjustable_buttstock_cheek.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/stock_sks_toz_sks_std_wood.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/stocks/stock_sks_toz_sks_std_wood_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/stock_sks_toz_sks_std_wood_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Zas M76/mag_m700_wyatt_762x51_5.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ST AR15/weapon_colt_m4a1_556x45_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/m4a1.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/m4a1.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/ST AR15/client_assets.bundle",
+			"assets/content/weapons/ST AR15/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/client_assets.bundle",
+			"assets/content/weapons/tx15/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/weapon_lone_star_tx15_designated_marksman_556x45_container.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ST AR15/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/ST AR15/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ST AR15/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/reciever_ar15_colt_m4a1_std.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/RO635/mag_pp-91_zmz_pp-91_std_9x18pm_30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/RO635/DIY/mag_pp-91_zmz_pp-91_std_9x18pm_30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/RO635/mag_pp-91_zmz_pp-91_std_9x18pm_20.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/RO635/barrel_ar15_adar_406mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barrels/RO635/barrel_ar15_adar_406mm_textures",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/RO635/barrel_ar15_adar_406mm_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/patron_1143x23_acp.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/RO635/stock_ar15_colt_stock_tube_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/stocks/RO635/stock_ar15_high_standart_m4ss_lod0_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/RO635/stock_ar15_high_standart_m4ss_lod0_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/RO635/barrel_ar15_260mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barrels/ro635/barrel_ar15_370mm_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/ro635/barrel_ar15_370mm_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Saiga 308/mag_vss_tochmash_6l24_9x39_10.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/M4A1 FDE/weapon_colt_m4a1_556x45_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/m4a1.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/m4a1.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/M4A1 FDE/client_assets.bundle",
+			"assets/content/weapons/M4A1 FDE/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/client_assets.bundle",
+			"assets/content/weapons/tx15/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/weapon_lone_star_tx15_designated_marksman_556x45_container.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/M4A1 FDE/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/M4A1 FDE/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/M4A1 FDE/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/M4A1 FDE/reciever_ar15_colt_m4a1_std.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/M4A1 FDE/handguard_ar15_kac_ris_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/M4A1 FDE/handguard_ar15_kac_ris.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/handguards/M4A1 FDE/handguard_ar15_kac_ris_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/M4A1 FDE/handguard_ar15_kac_ris_lower.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/handguards/M4A1 FDE/handguard_ar15_kac_ris_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/M4A1 FDE/stock_ar15_colt_stock_tube_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/stocks/M4A1 FDE/stock_ar15_high_standart_m4ss_lod0_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/M4A1 FDE/stock_ar15_high_standart_m4ss.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/stocks/M4A1 FDE/stock_ar15_high_standart_m4ss_lod0_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/M4A1 FDE/stock_ar15_high_standart_m4ss_lod0_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/scope_all_eotech_553.bundle",
+			"dependencyKeys": [
+			"assets/content/textures/holemanager/eotech_spec_mask.bundle",
+			"assets/systems/effects/collimator.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/M4A1/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/M4A1/mag_stanag_magpul_pmag_gen_m3_556x45_20.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/magazines/M4A1/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/M4A1/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/M4A1 Fast/mag_stanag_magpul_pmag_gen_m3_556x45_20.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/magazines/M4A1 Fast/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/M4A1 Fast/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/M4A1 Fast fde/mag_stanag_magpul_pmag_gen_m3_556x45_20.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/magazines/M4A1 Fast fde/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/M4A1 Fast fde/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/M4A1 Fast DIY/mag_stanag_magpul_pmag_gen_m3_556x45_20.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/magazines/M4A1 Fast DIY/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/M4A1 Fast DIY/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/7.92x57/S/patron_762x51.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/7.92x57/S.m.K.L/patron_762x51_m61.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/7.92x57/S.m.E/patron_762x51.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/7.92x57/S.m.K/patron_762x51.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/7.92x57/S.m.K.H/patron_762x51_m61.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/7.92x57/s.S/patron_762x51.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/tactical/tactical_all_insight_anpeq15.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/textures/holemanager/glow_particle_bright.bundle",
+			"assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+			"assets/systems/effects/collimator.bundle",
+			"assets/systems/effects/laserbeam/laser.bundle",
+			"assets/systems/effects/multiflare/multiflare.bundle",
+			"assets/systems/effects/nightvision.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/S-SASS/reciever_ar15_colt_m4a1_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/S-SASS/mag_m14_springfield_armory_762x51_20.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/S-SASS YE/mag_m14_springfield_armory_762x51_20.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/S-SASS/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/S-SASS/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/S-SASS/weapon_kac_sr25_762x51_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/S-SASS/client_assets.bundle",
+			"assets/content/weapons/S-SASS/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/S-SASS/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/RIS II BLK/handguard_ar15_dd_ris_ii_12,25.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/handguards/RIS II BLK/handguard_ar15_dd_ris_ii_12,25_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/RIS II BLK/handguard_ar15_dd_ris_ii_12,25_lower.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/RIS II BLK/handguard_ar15_dd_ris_ii_12,25_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/S-SASS/stock_ar15_magpul_prs_gen2_fde.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/pistol grips/S-SASS/pistolgrip_ar15_hk_ergo_psg1_style_grip.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barter/Memory Fragments/item_barter_electr_flashstorage.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barter/Fire Control Compoment/item_barter_electr_virtexprocessor.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ST AR15 SPR/weapon_adar_2-15_556x45_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/m4a1.bundle",
+			"assets/content/audio/banks/rsass.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/m4a1.bundle",
+			"assets/content/audio/weapons/mpx.bundle",
+			"assets/content/weapons/ST AR15 SPR/client_assets.bundle",
+			"assets/content/weapons/ST AR15 SPR/textures/client_assets.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/m4a1/client_assets.bundle",
+			"assets/content/weapons/m4a1/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/client_assets.bundle",
+			"assets/content/weapons/tx15/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/weapon_lone_star_tx15_designated_marksman_556x45_container.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ST AR15 SPR/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/ST AR15 SPR/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ST AR15 SPR/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/ST AR15 SPR/reciever_ar15_colt_m4a1_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/ST AR15 SBR/reciever_ar15_colt_m4a1_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ST AR15 SBR/weapon_colt_m4a1_556x45_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/m4a1.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/ST AR15/generic",
+			"assets/content/weapons/ST AR15/sound/1/m4a1.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/ST AR15 SBR/client_assets.bundle",
+			"assets/content/weapons/ST AR15 SBR/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/client_assets.bundle",
+			"assets/content/weapons/tx15/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/weapon_lone_star_tx15_designated_marksman_556x45_container.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ST AR15 SBR/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/ST AR15 SBR/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ST AR15 SBR/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/AR15 5in/barrel_ar15_260mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/items/G-mods/barrels/AR15 5in/barrel_ar15_370mm_textures.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/AR15 5in/barrel_ar15_370mm_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/AR15 short handguard/mount_vector_kriss_mk5_modular_rail.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/pistol grips/C14/pistolgrip_m700_magpul_pro_700_grip.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/M16A1/weapon_adar_2-15_556x45_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/m4a1.bundle",
+			"assets/content/audio/banks/rsass.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/m4a1.bundle",
+			"assets/content/audio/weapons/mpx.bundle",
+			"assets/content/weapons/M16A1/client_assets.bundle",
+			"assets/content/weapons/M16A1/textures/client_assets.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/m4a1/client_assets.bundle",
+			"assets/content/weapons/m4a1/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/client_assets.bundle",
+			"assets/content/weapons/tx15/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/weapon_lone_star_tx15_designated_marksman_556x45_container.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/M16A1/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/M16A1/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/M16A1/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/M4A1/silencer_sv98_izhmash_silencer_std_762x54.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/M4A1 adapter/muzzle_all_silencerco_hybrid_46_multi.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/SASS/silencer_sv98_izhmash_silencer_std_762x54.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/SASS adapter/muzzle_all_silencerco_hybrid_46_multi.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/m9/weapon_beretta_m9a3_9x19_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/glock17.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/glock17.bundle",
+			"assets/content/audio/weapons/grach.bundle",
+			"assets/content/audio/weapons/kedr.bundle",
+			"assets/content/audio/weapons/mpx.bundle",
+			"assets/content/audio/weapons/pm.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/m9/client_assets.bundle",
+			"assets/content/weapons/m9/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/m9/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/m9/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/m9/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/M9/reciever_m9_beretta_m9a3_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ump9/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/ump9/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ump9/weapon_hk_ump_1143x23_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/mp7.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/ump9/client_assets.bundle",
+			"assets/content/weapons/ump9/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ump9/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ump40/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/ump40/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ump40/weapon_hk_ump_1143x23_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/mp7.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/ump40/client_assets.bundle",
+			"assets/content/weapons/ump40/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ump40/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/UMP9/mag_pp-19-01_izhmash_vityaz_std_9x19_30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/Type-56/weapon_molot_op_sks_762x39_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/sks.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/dvl.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/mosin/instr/mosin_round_load_snd",
+			"assets/content/audio/weapons/sks.bundle",
+			"assets/content/prefabs/muzzleflash_base.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/Type-56/client_assets.bundle",
+			"assets/content/weapons/Type-56/textures/client_assets.bundle",
+			"assets/content/weapons/Type-56/weapon_toz_sks_762x39_container.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/Type-56/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/Type-56/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/Type-56/weapon_toz_sks_762x39_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/sks.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/dvl.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/mosin/instr/mosin_round_load_snd",
+			"assets/content/audio/weapons/sks.bundle",
+			"assets/content/prefabs/muzzleflash_base.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/Type-56/client_assets.bundle",
+			"assets/content/weapons/Type-56/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/Type-56/textures/client_assets.bundle",
+			"dependencyKeys": [
+			
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/OTs-12/reciever_ak_molot_akm_type.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights rear/OTs-12/sight_rear_g36_hk_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/OTs-12/handguard_aks74u_izhmash_aks74u_std_wood.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/handguards/OTs-12/handguard_aks74u_izhmash_aks74u_std_wood_lod0_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/OTs-12/handguard_aks74u_izhmash_aks74u_std_wood_lod0_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/OTs-12/mag_vss_tochmash_6l25_9x39_20.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/pistol grips/M9/pistolgrip_m9_beretta_m9a3_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/M9/barrel_m9_127mm_m9a3_std_9x19.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/M9/mag_m9_beretta_m9a3_std_9x19_17.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/M110/weapon_kac_sr25_762x51_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/M110/client_assets.bundle",
+			"assets/content/weapons/M110/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/M110/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/M110/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/M110/reciever_ar10_kac_sr25_upper_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/M110/handguard_ar15_kac_urx_31_10,75_inch.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/handguards/M110/handguard_ar15_kac_urx_3_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/M110/handguard_ar15_kac_urx_3_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/M110 BLK/handguard_ar15_kac_urx_31_10,75_inch.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/handguards/M110 BLK/handguard_ar15_kac_urx_3_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/M110 BLK/handguard_ar15_kac_urx_3_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/gas block/M110/mount_pp-91_rotor_43_kedr_ris.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/M110 16in/barrel_ar10_kac_406mm_762x51.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/M110 20in/barrel_ar10_kac_508mm_762x51.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/M110/muzzle_ar10_lantac_bmd_adapter_a3_762x51.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/M110 sliencer/silencer_vepr_rotor43_762x51.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/M110 sliencer BLK/silencer_vepr_rotor43_762x51.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/gas block/M110 FDE/mount_pp-91_rotor_43_kedr_ris.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/charges/M110/charge_ar10_kac_charging_handle_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barter/human power/item_keycard_lab_white.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barter/human power/item_keycard_lab_gloss_nrm",
+			"assets/content/items/G-mods/barter/human power/item_keycard_lab_mesh",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barter/human power/item_keycard_lab_gloss_nrm",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barter/human power/item_keycard_lab_mesh",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barter/ammo/item_keycard_lab_white.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barter/ammo/item_keycard_lab_gloss_nrm",
+			"assets/content/items/G-mods/barter/ammo/item_keycard_lab_mesh",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barter/ammo/item_keycard_lab_gloss_nrm",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barter/ammo/item_keycard_lab_mesh",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barter/component/item_keycard_lab_white.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barter/component/item_keycard_lab_gloss_nrm",
+			"assets/content/items/G-mods/barter/component/item_keycard_lab_mesh",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barter/component/item_keycard_lab_gloss_nrm",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barter/component/item_keycard_lab_mesh",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barter/ration/item_keycard_lab_white.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barter/ration/item_keycard_lab_gloss_nrm",
+			"assets/content/items/G-mods/barter/ration/item_keycard_lab_mesh",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barter/ration/item_keycard_lab_gloss_nrm",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barter/ration/item_keycard_lab_mesh",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/.40/FMJ/patron_1143x23_acp.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/.50 Beo/FMJ/patron_556x45_55_hp.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/.50 Beo/FMJ2/patron_556x45_55_hp.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/Beowulf/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/Beowulf/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/Beowulf/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/weapons/Beowulf/weapon_colt_m4a1_556x45_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/m4a1.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/m4a1.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/Beowulf/client_assets.bundle",
+			"assets/content/weapons/Beowulf/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/client_assets.bundle",
+			"assets/content/weapons/tx15/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/weapon_lone_star_tx15_designated_marksman_556x45_container.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/Beowulf/reciever_ar15_colt_m4a1_std.bundle",
+			"dependencyKeys": [
+			"shaders",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/Beowulf 406/barrel_ar15_adar_406mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barrels/Beowulf 406/barrel_ar15_adar_406mm_textures",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/Beowulf 406/barrel_ar15_adar_406mm_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Beowulf 20/mag_stanag_magpul_pmag_gen_m3_556x45_20.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/magazines/Beowulf 20/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Beowulf 20/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Beowulf stanag/mag_stanag_colt_ar15_std_556x45_30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Beowulf gen 30/mag_stanag_magpul_pmag_gen_m3_556x45_30_blk.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/magazines/Beowulf gen 30/mag_stanag_magpul_pmag_gen_m3_556x45_30_gloss_nrm",
+			"assets/content/items/G-mods/magazines/Beowulf gen 30/mag_stanag_magpul_pmag_gen_m3_556x45_30_mesh",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Beowulf gen 30/mag_stanag_magpul_pmag_gen_m3_556x45_30_fde.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/magazines/Beowulf gen 30/mag_stanag_magpul_pmag_gen_m3_556x45_30_gloss_nrm",
+			"assets/content/items/G-mods/magazines/Beowulf gen 30/mag_stanag_magpul_pmag_gen_m3_556x45_30_mesh",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Beowulf gen 30/mag_stanag_magpul_pmag_gen_m3_556x45_30_gloss_nrm",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Beowulf gen 30/mag_stanag_magpul_pmag_gen_m3_556x45_30_mesh",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Beowulf gen 40/mag_stanag_magpul_pmag_gen_m3_556x45_40.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/magazines/Beowulf gen 40/mag_stanag_magpul_pmag_gen_m3_556x45_40_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Beowulf gen 40/mag_stanag_magpul_pmag_gen_m3_556x45_40.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/magazines/Beowulf gen 40/mag_stanag_magpul_pmag_gen_m3_556x45_40_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Beowulf gen 40/mag_stanag_magpul_pmag_gen_m3_556x45_40_fde.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/magazines/Beowulf gen 40/mag_stanag_magpul_pmag_gen_m3_556x45_40_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Beowulf gen 40/mag_stanag_magpul_pmag_gen_m3_556x45_40_textures.bundle",
+			"dependencyKeys": [
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/Beowulf 508/barrel_ar15_508mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barrels/Beowulf 508/barrel_ar15_adar_406mm_textures",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/Beowulf 508/barrel_ar15_adar_406mm_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/Beowulf 370/barrel_ar15_370mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barrels/Beowulf 370/barrel_ar15_370mm_textures.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/Beowulf 370/barrel_ar15_370mm_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/.50 Beo/HP/patron_556x45_55_hp.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/.50 Beo/SP/patron_556x45_55_hp.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/MK10/handguard_ar15_kac_urx_3_8_inch.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/handguards/MK10/handguard_ar15_kac_urx_3_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/MK10/handguard_ar15_kac_urx_3_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Beowulf gen 20/mag_stanag_magpul_pmag_gen_m3_556x45_20.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/magazines/Beowulf gen 20/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/Beowulf gen 20/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/M16/reciever_ar15_colt_m4a1_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/M16/handguard_ar15_adar_wood_v1.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/M16/stock_ar15_magpul_ubr_gen2_blk.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/stocks/M16/stock_ar15_magpul_ubr_gen2_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/M16/stock_ar15_magpul_ubr_gen2_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights rear/M16/sight_rear_ar15_colt_a2.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/sights rear/M16/sight_ar15_colt_a2_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights rear/M16/sight_ar15_colt_a2_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/Beowulf/stock_ar15_magpul_ubr_gen2_blk.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/stocks/Beowulf/stock_ar15_magpul_ubr_gen2_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/Beowulf/stock_ar15_magpul_ubr_gen2_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/M110/stock_ar15_magpul_ubr_gen2_blk.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/stocks/M110/stock_ar15_magpul_ubr_gen2_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/M110/stock_ar15_magpul_ubr_gen2_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/M110 fix/stock_ar15_colt_stock_tube_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/stocks/M110 fix/stock_ar15_high_standart_m4ss_lod0_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/M110 fix/stock_ar15_high_standart_m4ss_lod0_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/gas block/Beowulf mount/gas_block_ar15_windham_weaponry_rail_gas_block.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/gas block/Beowulf mount/sight_ar15_colt_a2_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/gas block/Beowulf mount/sight_ar15_colt_a2_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/gas block/Beowulf/gas_block_ar15_windham_weaponry_rail_gas_block.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/gas block/Beowulf/sight_ar15_colt_a2_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/gas block/Beowulf/sight_ar15_colt_a2_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/M16 DIY/stock_ar15_magpul_ubr_gen2_blk.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/stocks/M16 DIY/stock_ar15_magpul_ubr_gen2_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/M16 DIY/stock_ar15_magpul_ubr_gen2_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/M76/handguard_ak_izhmash_ak74_std_wood.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/M76/weapon_izhmash_akmn_762x39_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/akm.bundle",
+			"assets/content/audio/banks/vpo209.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/akm.bundle",
+			"assets/content/audio/weapons/akm/instrumental.bundle",
+			"assets/content/audio/weapons/akm/vpo209.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/items/mods/handguards/handguard_ak_izhmash_akm_std_wood_textures.bundle",
+			"assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_136_lod0_textures.bundle",
+			"assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_209_textures.bundle",
+			"assets/content/items/mods/stocks/stock_akms_izhmash_akms_std_textures.bundle",
+			"assets/content/items/mods/stocks/stock_akms_izhmash_akmsn_std_textures.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/M76/client_assets.bundle",
+			"assets/content/weapons/M76/textures/client_assets.bundle",
+			"assets/content/weapons/akm/weapon_molot_akm_vpo_209_366tkm_container.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/M76/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/items/mods/handguards/handguard_ak_izhmash_akm_std_wood_textures.bundle",
+			"assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_136_lod0_textures.bundle",
+			"assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_209_textures.bundle",
+			"assets/content/items/mods/stocks/stock_akms_izhmash_akms_std_textures.bundle",
+			"assets/content/items/mods/stocks/stock_akms_izhmash_akmsn_std_textures.bundle",
+			"assets/content/weapons/M76/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/M76/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/gas block/M76/gas_block_ak_izhmash_akm_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/mods/handguards/handguard_ak_izhmash_akm_std_wood_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/M76 fix/stock_ar15_colt_stock_tube_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/muzzle/M76 fix/stock_ar15_high_standart_m4ss_lod0_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/M76 fix/stock_ar15_high_standart_m4ss_lod0_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/RO635/handguard_ar15_colt_m4_length_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/handguards/Ro635/handguard_ar15_kac_ris_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/Ro635/handguard_ar15_kac_ris_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/RO635/reciever_ar15_colt_m4a1_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/RO991/reciever_ar15_colt_m4a1_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/RO635/weapon_colt_m4a1_556x45_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/m4a1.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/m4a1.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/RO635/client_assets.bundle",
+			"assets/content/weapons/RO635/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/client_assets.bundle",
+			"assets/content/weapons/tx15/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/weapon_lone_star_tx15_designated_marksman_556x45_container.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/RO635/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/RO635/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/RO635/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/weapons/usp-c/weapon_hk_usp_45_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/grach.bundle",
+			"assets/content/audio/weapons/pm.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/fiveseven/client_assets.bundle",
+			"assets/content/weapons/fiveseven/textures/client_assets.bundle",
+			"assets/content/weapons/usp-c/client_assets.bundle",
+			"assets/content/weapons/usp-c/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/usp-c/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/usp-c/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/usp-c/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/usp-c/reciever_usp_hk_usp_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/usp-c/barrel_hk_usp_112mm_1143x23_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/hammer/usp-c/hammer_usp_hk_usp_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/hammer/usp-c/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/hammer/usp-c/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/trigger/usp-c/trigger_usp_hk_usp_std_trigger.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/weapons/usp-c/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/catch/usp-c/catch_usp_hk_usp_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/weapons/usp-c/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/12G/frag12/patron_12x70_rip.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/5.56/mk318 modx/patron_556x45_mk_318_mod_0.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/7.62x51/M948/patron_762x51.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/7.62x51/M948 MODX/patron_762x51.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/super shorty/weapon_remington_model_870_12g_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/m870.bundle",
+			"assets/content/audio/banks/mr133.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/mr133.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/super shorty/client_assets.bundle",
+			"assets/content/weapons/super shorty/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/super shorty/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/super shorty/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/super shorty/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/super shorty/barrel_870_extra_barrel_355mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/foregrips/super shorty/foregrip_all_zenit_rk_2.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/foregrips/super shorty/foregrip_all_zenit_rk_x_lod1_texture",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/foregrips/super shorty fix/mount_keymod_vltor_2_inch_casv_rail_section.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/mods/mounts/materials/mount_keymod_vltor_6_inch_casv_rail_section_lod0.bundle",
+			"assets/content/items/mods/mounts/materials/mount_keymod_vltor_6_inch_casv_rail_section_lod1.bundle",
+			"assets/content/items/mods/mounts/mount_keymod_vltor_6_inch_casv_rail_section_lod0_diff.bundle",
+			"assets/content/items/mods/mounts/mount_keymod_vltor_6_inch_casv_rail_section_lod0_gloss.bundle",
+			"assets/content/items/mods/mounts/mount_keymod_vltor_6_inch_casv_rail_section_lod0_nrm.bundle",
+			"assets/content/items/mods/mounts/mount_keymod_vltor_6_inch_casv_rail_section_lod1_diff.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/super shorty/mag_870_remington_magazie_cap_12g_4.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/ppsh/handguard_ar15_lone_star_ion_lite_m_lok_16_inch.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/ppsh/reciever_ar15_colt_m4a1_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/ppsh/barrel_ppsh_269mm_762x25.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ppsh/weapon_zis_ppsh41_762x25_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/kedr.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/kedr.bundle",
+			"assets/content/audio/weapons/sks.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/ppsh/client_assets.bundle",
+			"assets/content/weapons/ppsh/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ppsh/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/ppsh/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/ppsh/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/ppsh/mag_ppsh_zis_std_762x25_35.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/ppsh71/mag_ppsh_zis_std_762x25_71.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/handguard strip/mount_m_lok_magpul_2,5_inch_picatinny_rail_section.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/mounts/handguard strip/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/handguard strip/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/handguard strip blk/mount_m_lok_magpul_2,5_inch_picatinny_rail_section.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/mounts/handguard strip blk/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/handguard strip blk/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights front/HK416/sight_front_ar15_utg_low_gas_block_a2.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/sights front/HK416/sight_ar15_colt_a2_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights rear/HK416/sight_rear_ar15_colt_a2.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/sights rear/HK416/sight_ar15_colt_a2_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights front/HK416/sight_ar15_colt_a2_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/Halo fixing ring/muzzle_ar10_lantac_bmd_adapter_a3_762x51.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/Halo fixing ring FDE/muzzle_ar10_lantac_bmd_adapter_a3_762x51.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/Halo/silencer_socom_surefire_socom556_rc2_556x45.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/Halo FDE/silencer_socom_surefire_socom556_rc2_556x45.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights rear/HK416/sight_ar15_colt_a2_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/gear sector/mount_all_ncstar_mpr45.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/gear sector FDE/mount_all_ncstar_mpr45.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/AAC M4-2000/silencer_ar10_aac_762_sdn_6_762x51.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/tactical/M300W/tactical_all_steiner_las_tac_2.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/hands/bear/bear_hands_watch_texture.bundles",
+			"assets/content/hands/bear/bear_watch.bundle",
+			"assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+			"assets/systems/effects/multiflare/multiflare.bundle",
+			"assets/systems/effects/nightvision.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/tactical/M300W FDE/tactical_all_steiner_las_tac_2.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/hands/bear/bear_hands_watch_texture.bundles",
+			"assets/content/hands/bear/bear_watch.bundle",
+			"assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+			"assets/systems/effects/multiflare/multiflare.bundle",
+			"assets/systems/effects/nightvision.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/HK416 Fast/mag_stanag_hk_416_steel_maritime_556x45_30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/HK416 Fast BLK/mag_stanag_hk_416_steel_maritime_556x45_30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/HK 416/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/HK 416/textures/client_assets.bundle",
+			"assets/content/weapons/HK 416/weapon_hk_416a5_556x45_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/HK 416/weapon_hk_416a5_556x45_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/HK 416/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/HK 416/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/weapons/HK 416/weapon_hk_416a5_556x45_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/hk416.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/HK 416/client_assets.bundle",
+			"assets/content/weapons/HK 416/textures/client_assets.bundle",
+			"assets/content/weapons/HK 416/weapon_hk_416a5_556x45_assets.bundle",
+			"assets/content/weapons/m4a1/client_assets.bundle",
+			"assets/content/weapons/m4a1/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/HK416/reciever_ar15_hk_hk416a5_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/recievers/HK416/reciever_ar15_hk_hk416a5_std_assets.bundle",
+			"assets/content/weapons/HK 416/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/HK416/reciever_ar15_hk_hk416a5_std_assets.bundle",
+			"dependencyKeys": [
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/HK416/mag_stanag_hk_416_steel_maritime_556x45_30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/HK416 Fast2/mag_stanag_hk_416_steel_maritime_556x45_30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/HK416 Fast2 BLK/mag_stanag_hk_416_steel_maritime_556x45_30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/M4A1 DIY/scope_all_eotech_553.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/textures/holemanager/eotech_spec_mask.bundle",
+			"assets/systems/effects/collimator.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/ppsh old/reciever_ppsh_zis_ppsh41_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/.300/High-speed bullet/patron_762x35_ap.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/5.56/HE/patron_556x45_55_fmj.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/PRI Gen.3/handguard_ar15_stngr_vypr_m_lok_10_inch.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/PRI mount/mount_pri_precision_reflex_long_rail_section_gen3.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/PRI mount side/mount_pri_precision_reflex_long_rail_section_gen3.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/PRI mount bottom/mount_pri_precision_reflex_long_rail_section_gen3.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/SPR PEQ-2-3/reciever_ar15_colt_m4a1_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights rear/SPR PEQ/sight_rear_ar15_colt_a2.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/sights rear/SPR PEQ/sight_ar15_colt_a2_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights rear/SPR PEQ/sight_ar15_colt_a2_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights front/PRI/sight_front_all_sig_flip_up.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/MK12/barrel_ar15_457mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barrels/MK12/barrel_ar15_adar_406mm_textures",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/MK12/barrel_ar15_adar_406mm_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/MK12/muzzle_ar15_colt_usgi_a2_556x45.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/MK12 thread protector/muzzle_glock_alpha_wolf_thread_protector_9x19.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/muzzle/MK12 thread protector/barrel_glock_alpha_wolf_114mm_threaded_9x19_textures",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/MK12 thread protector/barrel_glock_alpha_wolf_114mm_threaded_9x19_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/MK12 sil/silencer_qdc_kac_qdc_suppressor_556x45.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/ARMS 32/mount_m_lok_magpul_2,5_inch_picatinny_rail_section.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/mounts/ARMS 32/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/ARMS 32/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/weapons/MK12/weapon_colt_m4a1_556x45_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/m4a1.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/m4a1.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/MK12/client_assets.bundle",
+			"assets/content/weapons/MK12/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/client_assets.bundle",
+			"assets/content/weapons/tx15/textures/client_assets.bundle",
+			"assets/content/weapons/tx15/weapon_lone_star_tx15_designated_marksman_556x45_container.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/MK12/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/MK12/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/MK12/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/MK12/reciever_ar15_colt_m4a1_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/SPR PEQ-2-3 DIY/reciever_ar15_colt_m4a1_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/gas block/MK12/gas_block_ar10_cmmg_low_profile.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBZ-03/weapon_molot_akm_vpo_209_366tkm_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/vpo209.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/akm/instrumental.bundle",
+			"assets/content/audio/weapons/akm/vpo209.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/items/mods/handguards/handguard_ak_izhmash_akm_std_wood_textures.bundle",
+			"assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_136_lod0_textures.bundle",
+			"assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_209_textures.bundle",
+			"assets/content/items/mods/stocks/stock_akms_izhmash_akms_std_textures.bundle",
+			"assets/content/items/mods/stocks/stock_akms_izhmash_akmsn_std_textures.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/QBZ-03/client_assets.bundle",
+			"assets/content/weapons/QBZ-03/textures/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBZ-03/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/items/mods/handguards/handguard_ak_izhmash_akm_std_wood_textures.bundle",
+			"assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_136_lod0_textures.bundle",
+			"assets/content/items/mods/handguards/handguard_ak_molot_vepr_km_vpo_209_textures.bundle",
+			"assets/content/items/mods/stocks/stock_akms_izhmash_akms_std_textures.bundle",
+			"assets/content/items/mods/stocks/stock_akms_izhmash_akmsn_std_textures.bundle",
+			"assets/content/weapons/QBZ-03/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBZ-03/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/03/handguard_ak_izhmash_ak100_rail_plastic.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/03/stock_ak_magpul_zhukov_s.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/03/muzzle_ak74_izhmash_ak101_std_556x45.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/muzzle/03/muzzle_ak74_izhmash_ak74m_std_545x39_textures.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/03/muzzle_ak74_izhmash_ak74m_std_545x39_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/03/mag_ak_izhmash_ak103_std_762x39_30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/5.8x42/DBP-87/patron_762x51_m993.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/5.8x42/DBP-10 Tracer/patron_762x51_m993.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/5.8x42/DBP-10/patron_762x51_m993.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/ammo/5.8x42/DVC-12/patron_762x51_m993.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBZ-95/weapon_dt_mdr_556x45_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/m4a1.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/m4a1.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/QBZ-95/client_assets.bundle",
+			"assets/content/weapons/QBZ-95/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBZ-95/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/QBZ-95/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBZ-95/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBZ-97/weapon_dt_mdr_556x45_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/m4a1.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/m4a1.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/QBZ-97/client_assets.bundle",
+			"assets/content/weapons/QBZ-97/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBZ-97/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/QBZ-97/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBZ-97/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/97/barrel_ar15_508mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barrels/97/barrel_ar15_adar_406mm_textures",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/97/barrel_ar15_adar_406mm_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/97 c/barrel_ar15_508mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barrels/97 c/barrel_ar15_adar_406mm_textures",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/97 c/barrel_ar15_adar_406mm_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/95/barrel_ar15_508mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barrels/95/barrel_ar15_adar_406mm_textures",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/95/barrel_ar15_adar_406mm_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/95 c/barrel_ar15_508mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barrels/95 c/barrel_ar15_adar_406mm_textures",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/95 c/barrel_ar15_adar_406mm_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/97/mount_g36_hk_side_rail_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/95/mag_ak_izhmash_ak103_std_762x39_30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/95 19/mag_ak_izhmash_ak103_std_762x39_30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/03modern/handguard_ak_zenit_b30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/97 long bow/mount_mk16_pws_srx.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/03/mount_t5000_orsis_scope_mount_rail_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/97 FTU/reciever_p90_fn_p90_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/recievers/97 FTU/reciever_p90_fn_p90_std_mesh",
+			"assets/content/items/G-mods/recievers/97 FTU/reciever_p90_fn_p90_std_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/97 FTU/reciever_p90_fn_p90_std_mesh",
+			"dependencyKeys": [
+			"assets/content/items/G-mods/recievers/97 FTU/reciever_p90_fn_p90_std_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/97 FTU/reciever_p90_fn_p90_std_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/95/silencer_qdc_kac_qdc_suppressor_556x45.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/suomiG/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/suomiG/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/suomiG/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+		{
+			"key": "assets/content/weapons/suomiG/base.at",
+			"dependencyKeys": [
+				"assets/content/weapons/suomiG/mat.at"
+			]
+		},
+		{
+			"key": "assets/content/weapons/suomiG/mag.at",
+			"dependencyKeys": [
+				"assets/content/weapons/suomiG/mat.at"
+			]
+		},
+		{
+			"key": "assets/content/weapons/suomiG/mat.at",
+			"dependencyKeys": [
+			]
+		},
+		{
+			"key": "assets/content/weapons/suomiG/suomisound.bundle",
+			"dependencyKeys": [
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/kedr.bundle"
+			]
+		},
+        {
+			"key": "assets/content/weapons/suomiG/textures/client_assets.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/weapons/suomiG/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/suomiG/textures/client_assets.bundle",
+			"cubemaps",
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"shaders"
+			]
+		},
+		{
+			"key": "assets/content/weapons/suomiG/weapon_zis_ppsh41_762x25_container.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/weapons/suomiG/suomisound.bundle",
+				"assets/content/audio/blendoptions/assets.bundle",
+				"assets/content/audio/weapons/ak74.bundle",
+				"assets/content/audio/weapons/generic",
+				"assets/content/audio/weapons/kedr.bundle",
+				"assets/content/audio/weapons/sks.bundle",
+				"assets/content/weapons/additional_hands/client_assets.bundle",
+				"assets/content/weapons/animations/simple_animations.bundle",
+				"assets/content/weapons/animations/spirit_animations.bundle",
+				"assets/content/weapons/suomiG/client_assets.bundle",
+				"assets/content/weapons/suomiG/textures/client_assets.bundle",
+				"assets/content/weapons/weapon_root_anim_fix.bundle",
+				"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+				"assets/systems/effects/heathaze/defaultheathaze.bundle",
+				"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+				"assets/systems/effects/smoke.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/barrels/suomi/barrel_mpx_203mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/sights rear/suomi/sight_rear_ak_izhmash_ak105_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/Desert Eagle/weapon_hk_usp_45_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/grach.bundle",
+			"assets/content/audio/weapons/pm.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/fiveseven/client_assets.bundle",
+			"assets/content/weapons/fiveseven/textures/client_assets.bundle",
+			"assets/content/weapons/Desert Eagle/client_assets.bundle",
+			"assets/content/weapons/Desert Eagle/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/Desert Eagle/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/Desert Eagle/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/Desert Eagle/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/recievers/Desert Eagle/reciever_usp_hk_elite.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/barrels/Desert Eagle/barrel_mosin_izhmash_mosin_custom_threaded_sawn_off_220mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/barrels/Desert Eagle 50/barrel_mosin_izhmash_mosin_custom_threaded_sawn_off_220mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/sights rear/Desert Eagle/sight_rear_usp_hk_std_rear_sight.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/sights front/Desert Eagle/sight_front_usp_hk_usp_tactical.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/hammer/Desert Eagle/hammer_usp_hk_usp_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/hammer/Desert Eagle/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/hammer/Desert Eagle/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/trigger/Desert Eagle/trigger_usp_hk_usp_std_trigger.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/hammer/Desert Eagle/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/catch/Desert Eagle/catch_usp_hk_usp_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/hammer/Desert Eagle/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/magazines/Desert Eagle/mag_usp_hk_usp_1143x23_12.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/magazines/Desert Eagle 50/mag_usp_hk_usp_1143x23_12.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/weapons/CZ-61/weapon_zmz_pp-9_9x18pmm_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/kedr.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/aksu.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/kedr.bundle",
+			"assets/content/audio/weapons/mpx.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/CZ-61/client_assets.bundle",
+			"assets/content/weapons/CZ-61/textures/client_assets.bundle",
+			"assets/content/weapons/CZ-61/weapon_zmz_pp-91-01_9x18pm_container.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/weapons/CZ-61/weapon_zmz_pp-91-01_9x18pm_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/kedr.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/aksu.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/kedr.bundle",
+			"assets/content/audio/weapons/mpx.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/CZ-61/client_assets.bundle",
+			"assets/content/weapons/CZ-61/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle","assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/weapons/CZ-61/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/CZ-61/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/weapons/CZ-61/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/magazines/CZ-61/mag_mp5_hk_kurtz_std_9x19_20.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/magazines/CZ-61/mag_mp5_hk_std_curved_9x19_30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/magazines/CZ-61/mag_mp5_x_products_x_5_9x19_50.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/pistol grips/CZ-61/pistolgrip_pp-91_zmz_pp_std_plastic.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/muzzle/CZ-61/silencer_57_gemtech_sfn_57_57x28.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/ammo/.50AE/FMJ/patron_9x33r_fmj.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/ammo/.50AE/SP/patron_9x33r_fmj.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+        {
+			"key": "assets/content/items/G-mods/ammo/.50AE/HP/patron_9x33r_fmj.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBU-88/weapon_dt_mdr_762x51_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/m4a1.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/m4a1.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/QBU-88/client_assets.bundle",
+			"assets/content/weapons/QBU-88/textures/client_assets.bundle",
+			"assets/content/weapons/mdr/weapon_dt_mdr_556x45_container.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBU-88/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/QBU-88/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBU-88/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/88/barrel_ar15_508mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barrels/88/barrel_ar15_adar_406mm_textures",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/88/barrel_ar15_adar_406mm_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/88/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/88/mag_stanag_magpul_pmag_gen_m3_556x45_20.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/magazines/88/mag_stanag_magpul_pmag_gen_m3_556x45_20_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights rear/88/sight_rear_all_sig_mpx_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights front/88/sight_front_all_sig_flip_up.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/88fix/mount_m_lok_magpul_2,5_inch_picatinny_rail_section.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/mods/mounts/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/88fix2/mount_m_lok_magpul_2,5_inch_picatinny_rail_section.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/mods/mounts/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/88/muzzle_ak74_izhmash_ak101_std_556x45.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/muzzle/88/muzzle_ak74_izhmash_ak74m_std_545x39_textures.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/88/muzzle_ak74_izhmash_ak74m_std_545x39_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/88/scope_base_kmz_1p59_3_10x.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/scopes/88/scope_base_kmz_1p59_1p69_3_10x_textures",
+			"assets/content/textures/holemanager/round_spec_mask.bundle",
+			"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+			"cubemaps",
+			"packages/com.unity.postprocessing/postprocessing/postprocessresources.bundle",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/88/scope_base_kmz_1p59_1p69_3_10x_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBZ-191/weapon_izhmash_rpk16_545x39_container.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/audio/banks/ak74m.bundle",
+			"assets/content/audio/blendoptions/assets.bundle",
+			"assets/content/audio/weapons/ak74.bundle",
+			"assets/content/audio/weapons/generic",
+			"assets/content/audio/weapons/saiga12.bundle",
+			"assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle",
+			"assets/content/weapons/additional_hands/client_assets.bundle",
+			"assets/content/weapons/ak74m/client_assets.bundle",
+			"assets/content/weapons/ak74m/textures/client_assets.bundle",
+			"assets/content/weapons/animations/simple_animations.bundle",
+			"assets/content/weapons/animations/spirit_animations.bundle",
+			"assets/content/weapons/pp-19-01/textures/client_assets.bundle",
+			"assets/content/weapons/QBZ-191/client_assets.bundle",
+			"assets/content/weapons/QBZ-191/textures/client_assets.bundle",
+			"assets/content/weapons/weapon_root_anim_fix.bundle",
+			"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+			"assets/systems/effects/heathaze/defaultheathaze.bundle",
+			"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBZ-191/client_assets.bundle",
+			"dependencyKeys": [
+			"assets/content/weapons/QBZ-191/textures/client_assets.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/weapons/QBZ-191/textures/client_assets.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/pistol grips/191/pistolgrip_ak_zenit_rk3.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/191/stock_rpk16_izhmash_rpk_stock_tube.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/stocks/191/stock_ar15_izhmash_ak12_std_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/191/stock_ar15_izhmash_ak12_std_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/191 1/stock_ar15_fab_defense_gl_core.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/191 s/handguard_rpk16_izhmash_rpk16_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/191/barrel_rpk16_izhmash_370mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barrels/191/barrel_rpk16_izhmash_rpk16_barrels_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/191/barrel_rpk16_izhmash_rpk16_barrels_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/191 l/handguard_ar15_sai_qd_rail_long.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/handguards/191 l/handguard_ar15_sai_qd_rail_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/191 l/handguard_ar15_sai_qd_rail_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/191 l/barrel_rpk16_izhmash_370mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/barrels/191 l/barrel_rpk16_izhmash_rpk16_barrels_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/barrels/191 l/barrel_rpk16_izhmash_rpk16_barrels_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights rear/191/sight_rear_all_sig_mpx_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/191fix/mount_pri_precision_reflex_long_rail_section_gen3.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights front/191/sight_front_all_sig_mpx_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/stocks/191 2/stock_ar15_fab_defense_gl_core.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/magazines/191/mag_ak_izhmash_ak103_std_762x39_30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/191/scope_all_swampfox_trihawk_prism_scope_3x30.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+			"cubemaps",
+			"packages/com.unity.postprocessing/postprocessing/postprocessresources.bundle",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/Holosun510c/scope_all_walther_mrs.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/collimator.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/Holosun510c FDE/scope_all_walther_mrs.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/collimator.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/SMR/handguard_416_midwest_m_lok_9_inch.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/handguards/SMR/handguard_416_midwest_m_lok_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/SMR/handguard_416_midwest_m_lok_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/foregrips/M900V/foregrip_all_ckib_ash12_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/M16 third/mount_mk16_pws_srx.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/PRI handle/mount_mk16_pws_srx.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/M16 mount/mount_mk16_pws_srx.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/aimpoint 1000/scope_base_sig_romeo_4.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/textures/holemanager/round_spec_mask.bundle",
+			"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/barska/scope_base_trijicon_acog_ta01nsn_4x32_mark",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/barska/scope_base_trijicon_acog_ta01nsn_4x32_mesh",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/barska/scope_base_trijicon_acog_ta01nsn_4x32_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/barska/scope_base_trijicon_acog_ta01nsn_4x32.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/scopes/barska/scope_base_trijicon_acog_ta01nsn_4x32_mark",
+			"assets/content/items/G-mods/scopes/barska/scope_base_trijicon_acog_ta01nsn_4x32_mesh",
+			"assets/content/items/G-mods/scopes/barska/scope_base_trijicon_acog_ta01nsn_4x32_textures",
+			"assets/content/textures/holemanager/round_spec_mask.bundle",
+			"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+			"cubemaps",
+			"packages/com.unity.postprocessing/postprocessing/postprocessresources.bundle",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights rear/AR-15 handle/sight_rear_ar15_colt_carry_hande_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/M68/scope_all_holosun_hs401g5.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/textures/holemanager/glow_particle_bright.bundle",
+			"assets/content/textures/holemanager/round_spec_mask.bundle",
+			"assets/systems/effects/collimator.bundle",
+			"assets/systems/effects/laserbeam/laser.bundle",
+			"assets/systems/effects/multiflare/multiflare.bundle",
+			"assets/systems/effects/nightvision.bundle",
+			"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/handguard chip/mount_m_lok_magpul_2,5_inch_picatinny_rail_section.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/mounts/handguard chip/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/handguard chip/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/handguard chip fde/mount_m_lok_magpul_2,5_inch_picatinny_rail_section.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/mounts/handguard chip fde/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/handguard chip fde/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/191/muzzle_ar15_kac_qd_compensator_556x45.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/191/mount_m_lok_magpul_2,5_inch_picatinny_rail_section.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/mounts/191/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/191/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/191 bottom/mount_g36_hk_side_rail_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights rear/95/sight_rear_ar15_colt_a2.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/sights rear/95/sight_ar15_colt_a2_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/sights rear/95/sight_ar15_colt_a2_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/bar2/handguard_ar15_geissele_smr_mk16_135_inch.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/bar3/handguard_ar15_geissele_smr_mk16_135_inch.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/bar3 s/handguard_ar15_geissele_smr_mk16_135_inch.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/M-lok 4.1/mount_m_lok_magpul_4,1_inch_picatinny_rail_section.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/mounts/M-lok 4.1/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/M-lok 4.1/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/handguard chip s/mount_m_lok_magpul_2,5_inch_picatinny_rail_section.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/mounts/handguard chip s/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/handguard chip s/mount_m_lok_magpul_picatinny_rail_sections_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/handguards/black/handguard_ar15_geissele_smr_mk16_135_inch.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/AR-15/silencer_socom_surefire_socom556_mini_monster_556x45.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/muzzle/AR-15/silencer_socom_surefire_socom556_monster_556x45_textures",
+			"assets/systems/effects/smoke.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/muzzle/AR-15/silencer_socom_surefire_socom556_monster_556x45_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/recievers/mega/reciever_ar15_colt_m4a1_std.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/G33/scope_all_eotech_hhs_1_tan.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/mods/scopes/scope_all_eotech_exps3_gloss_nrm",
+			"assets/content/items/G-mods/scopes/G33/scope_all_eotech_exps3_tan_textures",
+			"assets/content/items/mods/scopes/scope_all_eotech_g33_gloss_nrm",
+			"assets/content/items/G-mods/scopes/G33/scope_all_eotech_hhs_1_tan_mesh",
+			"assets/content/textures/holemanager/eotech_spec_mask.bundle",
+			"assets/content/textures/holemanager/round_spec_mask.bundle",
+			"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+			"cubemaps",
+			"packages/com.unity.postprocessing/postprocessing/postprocessresources.bundle",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/G33/scope_all_eotech_exps3_tan_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/G33/scope_all_eotech_hhs_1_tan_mesh",
+			"dependencyKeys": [
+			"assets/content/items/mods/scopes/scope_all_eotech_exps3_gloss_nrm",
+			"assets/content/items/G-mods/scopes/G33/scope_all_eotech_exps3_tan_textures",
+			"assets/content/items/mods/scopes/scope_all_eotech_g33_gloss_nrm",
+			"assets/content/textures/holemanager/eotech_spec_mask.bundle",
+			"assets/content/textures/holemanager/round_spec_mask.bundle",
+			"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/G33fix/mount_pri_precision_reflex_long_rail_section_gen3.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/omm/scope_30mm_burris_fullfield_tac30_1_4x24_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/omm/mount_all_burris_ar_p_e_p_r_30mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/mounts/omm/scope_30mm_burris_fullfield_tac30_1_4x24_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/omm fde/scope_30mm_burris_fullfield_tac30_1_4x24_textures.bundle",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/mounts/omm fde/mount_all_burris_ar_p_e_p_r_30mm.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/mounts/omm fde/scope_30mm_burris_fullfield_tac30_1_4x24_textures.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/G33 fde/scope_all_eotech_hhs_1_tan.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/mods/scopes/scope_all_eotech_exps3_gloss_nrm",
+			"assets/content/items/G-mods/scopes/G33 fde/scope_all_eotech_exps3_tan_textures",
+			"assets/content/items/mods/scopes/scope_all_eotech_g33_gloss_nrm",
+			"assets/content/items/G-mods/scopes/G33 fde/scope_all_eotech_hhs_1_tan_mesh",
+			"assets/content/textures/holemanager/eotech_spec_mask.bundle",
+			"assets/content/textures/holemanager/round_spec_mask.bundle",
+			"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+			"cubemaps",
+			"packages/com.unity.postprocessing/postprocessing/postprocessresources.bundle",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/G33 fde/scope_all_eotech_exps3_tan_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/G33 fde/scope_all_eotech_hhs_1_tan_mesh",
+			"dependencyKeys": [
+			"assets/content/items/mods/scopes/scope_all_eotech_exps3_gloss_nrm",
+			"assets/content/items/G-mods/scopes/G33 fde/scope_all_eotech_exps3_tan_textures",
+			"assets/content/items/mods/scopes/scope_all_eotech_g33_gloss_nrm",
+			"assets/content/textures/holemanager/eotech_spec_mask.bundle",
+			"assets/content/textures/holemanager/round_spec_mask.bundle",
+			"assets/systems/effects/opticsight/opticsightsmasks.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/EXPS3 Blk/scope_all_eotech_exps3.bundle",
+			"dependencyKeys": [
+			"assets/commonassets/physics/physicsmaterials.bundle",
+			"assets/content/items/G-mods/scopes/EXPS3 Blk/scope_all_eotech_exps3_gloss_nrm",
+			"assets/content/items/G-mods/scopes/EXPS3 Blk/scope_all_eotech_exps3_mesh",
+			"assets/content/items/G-mods/scopes/EXPS3 Blk/scope_all_eotech_exps3_tan_textures",
+			"assets/content/items/mods/scopes/scope_all_eotech_xps3_textures.bundle",
+			"assets/content/textures/holemanager/eotech_spec_mask.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/EXPS3 Blk/scope_all_eotech_exps3_mesh",
+			"dependencyKeys": [
+			"assets/content/items/G-mods/scopes/EXPS3 Blk/scope_all_eotech_exps3_gloss_nrm",
+			"assets/content/items/G-mods/scopes/EXPS3 Blk/scope_all_eotech_exps3_tan_textures",
+			"assets/content/items/mods/scopes/scope_all_eotech_xps3_textures.bundle",
+			"assets/content/textures/holemanager/eotech_spec_mask.bundle",
+			"cubemaps",
+			"shaders"
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/EXPS3 Blk/scope_all_eotech_exps3_tan_textures",
+			"dependencyKeys": [
+			]
+		},
+	    {
+			"key": "assets/content/items/G-mods/scopes/EXPS3 Blk/scope_all_eotech_exps3_gloss_nrm",
+			"dependencyKeys": [
+			]
+		}
+		       ]
+}
