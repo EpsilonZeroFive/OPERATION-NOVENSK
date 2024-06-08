@@ -7,7 +7,7 @@ Corrected the OTs-12 designation from "Groza" to "Tiss"
 Shortened Trader name to fit within UI
 Reenabled loyalty levels, plus tweaks
 Translated the plot changes document
-Temporarily reduced all exp rewards from 30000 to 1000, will tweak rewards to fit mission efforts accordingly
+Roughly balanced experience rewards
 
 To-Do:
 Fix quests
