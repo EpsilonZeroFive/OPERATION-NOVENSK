@@ -1,4 +1,5 @@
 This mod was built by RINGMING and his team over at Oddba, the original port of this mod came from Junko Space Mommy at SPT. This is my personal branch fixing and localizing the mod, plus some tweaks to my preferences.
+ENSURE YOU HAVE THE BUNDLES FOLDER, THESE ARE THE TEXTURES USED IN THE MOD.
 Should the original author request, this mod will be taken down immediately.
 
 Translated the Server Initialization Text
